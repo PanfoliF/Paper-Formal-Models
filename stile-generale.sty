@@ -1,0 +1,132 @@
+% !TEX root = ./main.tex
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{stile-generale}[2025/05/21 Stile base generale]
+
+\RequirePackage[utf8]{inputenc}
+\RequirePackage[T1]{fontenc}
+\RequirePackage[italian, english]{babel}
+\RequirePackage{graphicx}
+\RequirePackage{microtype}
+\RequirePackage{lipsum}
+\RequirePackage{subfiles}
+\RequirePackage{titling}
+\RequirePackage{enumitem} % per personalizzare gli elenchi
+\RequirePackage{pgfplots} % per grafici
+\pgfplotsset{compat=1.18} % per grafici
+\RequirePackage{csquotes}
+\RequirePackage{lmodern} %font
+\RequirePackage{lipsum} % Pacchetto per testo Lorem Ipsum
+\RequirePackage{amsmath,amssymb}
+
+
+\RequirePackage{geometry}
+\geometry{margin=3cm}
+
+%-------fancyhdr---------
+\RequirePackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}
+% \fancyhead[LE,RO]{\thepage}
+% \fancyhead[RE]{\leftmark}
+% \fancyhead[LO]{\rightmark}
+% Fix for fancyhdr headheight warning
+\setlength{\headheight}{14.5pt}
+\addtolength{\topmargin}{-2.5pt}
+
+%--------------biblatex-------------------
+\RequirePackage[backend=biber,style=apa]{biblatex}
+% --- Traccia le voci citate in una categoria ---
+\DeclareBibliographyCategory{cited}
+\AtEveryCitekey{\addtocategory{cited}{\thefield{entrykey}}}
+
+%---------------------------------
+% senza queste righe i capitoli iniziano sempre su pagina dispari
+\makeatletter
+\renewcommand{\cleardoublepage}{\clearpage}
+\makeatother
+
+%---------------------------------
+\RequirePackage{setspace} % per interlinea
+
+\RequirePackage{hyperref}
+\hypersetup{
+    colorlinks=false,
+    pdftitle={Literature Review},
+    pdfpagemode=FullScreen,
+}
+
+\RequirePackage{ragged2e}
+%------IMMAGINI----
+\RequirePackage{caption}
+
+\captionsetup[figure]{
+  font=small,
+  labelfont=bf,
+  labelsep=colon,
+  justification=centering,
+  name=Figura
+}
+
+\newcommand{\immagine}[3][0.8\textwidth]{%
+  \begin{figure}[ht]
+    \centering
+    \includegraphics[width=#1]{#2}
+    \caption{#3}
+  \end{figure}
+}
+
+%--------TABELLE-----
+
+\RequirePackage{booktabs}
+\RequirePackage{array}
+
+\captionsetup[table]{
+  font=small,
+  labelfont=bf,
+  labelsep=colon,
+  justification=centering,
+  name=Tabella
+}
+
+\newcommand{\tabelladuecolonne}[4]{%
+  \begin{table}[ht]
+    \centering
+    \begin{tabular}{#1}
+      \toprule
+      #2 \\ \midrule
+      #3 \\
+      \bottomrule
+    \end{tabular}
+    \caption{#4}
+  \end{table}
+}
+
+\newcommand{\tabellacsv}[2][]{%
+  \begin{table}[ht]
+    \centering
+    \pgfplotstabletypeset[
+      col sep=comma,
+      string type,
+      header=true,
+      columns/.style={every column/.style={
+        column type={>{\raggedright\arraybackslash}p{3cm}}
+      }},
+      #1
+    ]{#2}
+    \caption{Tabella da CSV}
+  \end{table}
+}
+
+% --- Sottotitolo con titling ---
+\RequirePackage{titling}
+\makeatletter
+\newcommand{\subtitle}[1]{\gdef\@subtitle{#1}} % memorizza il sottotitolo
+\newcommand{\@subtitle}{}                      % inizializza vuoto
+\renewcommand{\maketitlehookb}{% stampa dopo il titolo, prima degli autori
+  \ifx\@subtitle\@empty\else
+    \par\medskip
+    \begin{center}\large\itshape\@subtitle\end{center}
+  \fi}
+\makeatother
+
+% ------------ END ---------------
