@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
-    \entry{groseclose_buying_1996}{article}{}{}
+    \entry{grosecloseBuyingSupermajorities1996}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8fe97a62d026fb85304219ff5cd3c5c4}{%
            family={Groseclose},
@@ -33,6 +33,9 @@
            given={James\bibnamedelima M.},
            giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
       }
       \strng{namehash}{6f950c8c59d3ffb450abffd16f086103}
       \strng{fullhash}{6f950c8c59d3ffb450abffd16f086103}
@@ -50,11 +53,11 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Minimal winning coalitions have appeared as a key prediction or as an essential assumption of virtually all formal models of coalition formation, vote buying, and logrolling. Notwithstanding this research, we provide a model showing that supermajority coalitions may be cheaper than minimal winning coalitions. Specifically, if vote buyers move sequentially, and if the losing vote buyer is always granted a last chance to attack the winner's coalition, then minimal winning coalitions will generally not be cheapest, and equilibrium coalitions will generally not be minimal winning. We provide results relating equilibrium coalition size with preferences of the legislators and vote buyers, and we show that minimal winning coalitions should occur in only rare cases. We discuss these results in light of empirical work on coalition size and suggest other possible avenues for testing our model.}
+      \field{edition}{2014/08/01}
       \field{issn}{0003-0554}
       \field{journaltitle}{American Political Science Review}
-      \field{note}{Edition: 2014/08/01 Publisher: Cambridge University Press}
       \field{number}{2}
-      \field{title}{Buying Supermajorities}
+      \field{title}{Buying {{Supermajorities}}}
       \field{volume}{90}
       \field{year}{1996}
       \field{dateera}{ce}
@@ -70,7 +73,7 @@
       \verb https://www.cambridge.org/core/product/2A797D3C2E464B0ABF326B85A22B4DB7
       \endverb
     \endentry
-    \entry{pearl_causality_2009}{book}{}{}
+    \entry{pearlCausalityModelsReasoning2009}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=809f695b398afbb54b544c49e8d1bbbb}{%
            family={Pearl},
@@ -80,7 +83,7 @@
            givenun=0}}%
       }
       \list{location}{1}{%
-        {Cambridge, {UK}}%
+        {Cambridge, UK}%
       }
       \list{publisher}{1}{%
         {Cambridge University Press}%
@@ -102,15 +105,16 @@
       \field{labeltitlesource}{title}
       \field{edition}{2}
       \field{isbn}{978-0-521-89560-6}
-      \field{title}{Causality: Models, Reasoning, and Inference}
+      \field{note}{Chapters 1–2 define causal diagrams (DAGs) and the structural model framework.}
+      \field{title}{Causality: {{Models}}, {{Reasoning}}, and {{Inference}}}
       \field{year}{2009}
       \field{dateera}{ce}
       \verb{doi}
       \verb 10.1017/CBO9780511803161
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{safina_beyond_2015}{book}{}{}
+    \entry{safinaWordsWhatAnimals2015}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceabcca9adf94dd30afe731487d84e80}{%
            family={Safina},
@@ -122,9 +126,8 @@
       \list{location}{1}{%
         {New York}%
       }
-      \list{publisher}{2}{%
-        {Henry Holt}%
-        {Company}%
+      \list{publisher}{1}{%
+        {Henry Holt and Company}%
       }
       \strng{namehash}{ceabcca9adf94dd30afe731487d84e80}
       \strng{fullhash}{ceabcca9adf94dd30afe731487d84e80}
@@ -142,12 +145,13 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-8050-9888-4}
-      \field{title}{Beyond Words: What Animals Think and Feel}
+      \field{note}{Explores animal cognition and emotions, linking behavioral evidence with questions of consciousness.}
+      \field{title}{Beyond {{Words}}: {{What Animals Think}} and {{Feel}}}
       \field{year}{2015}
       \field{dateera}{ce}
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{schelling_strategy_1960}{book}{}{}
+    \entry{schellingStrategyConflict1960}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=437acf28afb8c05b38d6de93b43ff96f}{%
            family={Schelling},
@@ -157,7 +161,7 @@
            givenun=0}}%
       }
       \list{location}{1}{%
-        {Cambridge, {MA}}%
+        {Cambridge, MA}%
       }
       \list{publisher}{1}{%
         {Harvard University Press}%
@@ -178,12 +182,13 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-674-84031-7}
-      \field{title}{The Strategy of Conflict}
+      \field{note}{Classic work on strategic behavior and conflict theory.}
+      \field{title}{The {{Strategy}} of {{Conflict}}}
       \field{year}{1960}
       \field{dateera}{ce}
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{smith_logic_1973}{article}{}{}
+    \entry{smithLogicAnimalConflict1973}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b160198f3d05f6e292928980596af3aa}{%
            family={Smith},
@@ -208,18 +213,18 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
-      \field{title}{The logic of Animal Conflict}
+      \field{title}{The Logic of {{Animal Conflict}}}
       \field{volume}{246}
       \field{year}{1973}
       \field{dateera}{ce}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Smith - 1973 - The logic of Animal COnflict.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Smith - 1973 - The logic of Animal COnflict.pdf;/Users/filippo/Zotero/storage/NK5LC8MJ/Smith - 1973 - The logic of Animal COnflict.pdf
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
-    \entry{groseclose_buying_1996}{article}{}{}
+    \entry{grosecloseBuyingSupermajorities1996}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8fe97a62d026fb85304219ff5cd3c5c4}{%
            family={Groseclose},
@@ -233,6 +238,9 @@
            given={James\bibnamedelima M.},
            giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
       }
       \strng{namehash}{6f950c8c59d3ffb450abffd16f086103}
       \strng{fullhash}{6f950c8c59d3ffb450abffd16f086103}
@@ -250,11 +258,11 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Minimal winning coalitions have appeared as a key prediction or as an essential assumption of virtually all formal models of coalition formation, vote buying, and logrolling. Notwithstanding this research, we provide a model showing that supermajority coalitions may be cheaper than minimal winning coalitions. Specifically, if vote buyers move sequentially, and if the losing vote buyer is always granted a last chance to attack the winner's coalition, then minimal winning coalitions will generally not be cheapest, and equilibrium coalitions will generally not be minimal winning. We provide results relating equilibrium coalition size with preferences of the legislators and vote buyers, and we show that minimal winning coalitions should occur in only rare cases. We discuss these results in light of empirical work on coalition size and suggest other possible avenues for testing our model.}
+      \field{edition}{2014/08/01}
       \field{issn}{0003-0554}
       \field{journaltitle}{American Political Science Review}
-      \field{note}{Edition: 2014/08/01 Publisher: Cambridge University Press}
       \field{number}{2}
-      \field{title}{Buying Supermajorities}
+      \field{title}{Buying {{Supermajorities}}}
       \field{volume}{90}
       \field{year}{1996}
       \field{dateera}{ce}
@@ -270,7 +278,7 @@
       \verb https://www.cambridge.org/core/product/2A797D3C2E464B0ABF326B85A22B4DB7
       \endverb
     \endentry
-    \entry{pearl_causality_2009}{book}{}{}
+    \entry{pearlCausalityModelsReasoning2009}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=809f695b398afbb54b544c49e8d1bbbb}{%
            family={Pearl},
@@ -280,7 +288,7 @@
            givenun=0}}%
       }
       \list{location}{1}{%
-        {Cambridge, {UK}}%
+        {Cambridge, UK}%
       }
       \list{publisher}{1}{%
         {Cambridge University Press}%
@@ -302,15 +310,16 @@
       \field{labeltitlesource}{title}
       \field{edition}{2}
       \field{isbn}{978-0-521-89560-6}
-      \field{title}{Causality: Models, Reasoning, and Inference}
+      \field{note}{Chapters 1–2 define causal diagrams (DAGs) and the structural model framework.}
+      \field{title}{Causality: {{Models}}, {{Reasoning}}, and {{Inference}}}
       \field{year}{2009}
       \field{dateera}{ce}
       \verb{doi}
       \verb 10.1017/CBO9780511803161
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{safina_beyond_2015}{book}{}{}
+    \entry{safinaWordsWhatAnimals2015}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceabcca9adf94dd30afe731487d84e80}{%
            family={Safina},
@@ -322,9 +331,8 @@
       \list{location}{1}{%
         {New York}%
       }
-      \list{publisher}{2}{%
-        {Henry Holt}%
-        {Company}%
+      \list{publisher}{1}{%
+        {Henry Holt and Company}%
       }
       \strng{namehash}{ceabcca9adf94dd30afe731487d84e80}
       \strng{fullhash}{ceabcca9adf94dd30afe731487d84e80}
@@ -342,12 +350,13 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-8050-9888-4}
-      \field{title}{Beyond Words: What Animals Think and Feel}
+      \field{note}{Explores animal cognition and emotions, linking behavioral evidence with questions of consciousness.}
+      \field{title}{Beyond {{Words}}: {{What Animals Think}} and {{Feel}}}
       \field{year}{2015}
       \field{dateera}{ce}
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{schelling_strategy_1960}{book}{}{}
+    \entry{schellingStrategyConflict1960}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=437acf28afb8c05b38d6de93b43ff96f}{%
            family={Schelling},
@@ -357,7 +366,7 @@
            givenun=0}}%
       }
       \list{location}{1}{%
-        {Cambridge, {MA}}%
+        {Cambridge, MA}%
       }
       \list{publisher}{1}{%
         {Harvard University Press}%
@@ -378,12 +387,13 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-674-84031-7}
-      \field{title}{The Strategy of Conflict}
+      \field{note}{Classic work on strategic behavior and conflict theory.}
+      \field{title}{The {{Strategy}} of {{Conflict}}}
       \field{year}{1960}
       \field{dateera}{ce}
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{smith_logic_1973}{article}{}{}
+    \entry{smithLogicAnimalConflict1973}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b160198f3d05f6e292928980596af3aa}{%
            family={Smith},
@@ -408,21 +418,21 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
-      \field{title}{The logic of Animal Conflict}
+      \field{title}{The Logic of {{Animal Conflict}}}
       \field{volume}{246}
       \field{year}{1973}
       \field{dateera}{ce}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Smith - 1973 - The logic of Animal COnflict.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Smith - 1973 - The logic of Animal COnflict.pdf;/Users/filippo/Zotero/storage/NK5LC8MJ/Smith - 1973 - The logic of Animal COnflict.pdf
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
   \enddatalist
 \endrefsection
 
 \refsection{1}
   \datalist[entry]{apa/apasortcite//global/global/global}
-    \entry{angrist_credibility_nodate}{article}{}{}
+    \entry{angristCredibilityRevolutionEmpirical}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ee326f34eea24952d04c41cef1771bfc}{%
            family={Angrist},
@@ -452,13 +462,13 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
-      \field{title}{The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con out of Econometrics}
+      \field{title}{The {{Credibility Revolution}} in {{Empirical Economics}}: {{How Better Research Design Is Taking}} the {{Con}} out of {{Econometrics}}}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Angrist and Pischke - The Credibility Revolution in Empirical Economics How Better Research Design Is Taking the Con out.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Angrist and Pischke - The Credibility Revolution in Empirical Economics How Better Research Design Is Taking the Con out.pdf;/Users/filippo/Zotero/storage/DA63TQ2W/Angrist and Pischke - The Credibility Revolution in Empirical Economics How Better Research Design Is Taking the Con out.pdf
       \endverb
     \endentry
-    \entry{ansolabehere_valence_nodate}{article}{}{}
+    \entry{ansolabehereValencePoliticsEquilibrium}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b4eb159d441c4c0f7b14bb55b6e910c7}{%
            family={Ansolabehere},
@@ -487,15 +497,15 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Spatial models of two-party or two-candidate competition almost never have purestrategy Nash equilibria when the issue space has more than one dimension. This paper shows that the introduction of valence issues can create conditions where equilibria exist, even in a multidimensional setting. We derive sufﬁcient conditions for the existence of equilibria, and characterize the spatial locations of two competing parties or candidates when such equilibria exist. The party with the advantage on the valence dimension will generally take a moderate position on the positional issues. We consider the implications of these results for public perceptions of the parties, incumbency advantages, and realigning elections.}
+      \field{abstract}{Spatial models of two-party or two-candidate competition almost never have purestrategy Nash equilibria when the issue space has more than one dimension. This paper shows that the introduction of valence issues can create conditions where equilibria exist, even in a multidimensional setting. We derive sufficient conditions for the existence of equilibria, and characterize the spatial locations of two competing parties or candidates when such equilibria exist. The party with the advantage on the valence dimension will generally take a moderate position on the positional issues. We consider the implications of these results for public perceptions of the parties, incumbency advantages, and realigning elections.}
       \field{langid}{english}
-      \field{title}{Valence Politics and Equilibrium in Spatial Election Models}
+      \field{title}{Valence {{Politics}} and {{Equilibrium}} in {{Spatial Election Models}}}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ansolabehere and Snyder - Valence Politics and Equilibrium in Spatial Election Models.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ansolabehere and Snyder - Valence Politics and Equilibrium in Spatial Election Models.pdf;/Users/filippo/Zotero/storage/8GBLJV9N/Ansolabehere and Snyder - Valence Politics and Equilibrium in Spatial Election Models.pdf
       \endverb
     \endentry
-    \entry{ashworth_monotone_2006}{article}{}{}
+    \entry{ashworthMonotoneComparativeStatics2006}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=cee98a030c86873efad8014a3178684b}{%
            family={Ashworth},
@@ -531,7 +541,7 @@
       \field{langid}{english}
       \field{month}{1}
       \field{number}{1}
-      \field{title}{Monotone Comparative Statics for Models of Politics}
+      \field{title}{Monotone {{Comparative Statics}} for {{Models}} of {{Politics}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -546,7 +556,7 @@
       \verb 10.1111/j.1540-5907.2006.00180.x
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ashworth and Bueno De Mesquita - 2006 - Monotone Comparative Statics for Models of Politics.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ashworth and Bueno De Mesquita - 2006 - Monotone Comparative Statics for Models of Politics.pdf;/Users/filippo/Zotero/storage/3PM3WNRR/Ashworth and Bueno De Mesquita - 2006 - Monotone Comparative Statics for Models of Politics.pdf
       \endverb
       \verb{urlraw}
       \verb https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00180.x
@@ -555,7 +565,7 @@
       \verb https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00180.x
       \endverb
     \endentry
-    \entry{ashworth_all_2015}{article}{}{}
+    \entry{ashworthAllElseEqual2015}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=cee98a030c86873efad8014a3178684b}{%
            family={Ashworth},
@@ -593,11 +603,11 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1049-0965, 1537-5935}
-      \field{journaltitle}{{APSC}}
+      \field{journaltitle}{APSC}
       \field{langid}{english}
       \field{month}{1}
       \field{number}{1}
-      \field{title}{All Else Equal in Theory and Data (Big or Small)}
+      \field{title}{All {{Else Equal}} in {{Theory}} and {{Data}} ({{Big}} or {{Small}})}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -612,7 +622,7 @@
       \verb 10.1017/S1049096514001802
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ashworth et al. - 2015 - All Else Equal in Theory and Data (Big or Small).pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ashworth et al. - 2015 - All Else Equal in Theory and Data (Big or Small).pdf;/Users/filippo/Zotero/storage/DNMINZ4R/Ashworth et al. - 2015 - All Else Equal in Theory and Data (Big or Small).pdf
       \endverb
       \verb{urlraw}
       \verb https://www.cambridge.org/core/product/identifier/S1049096514001802/type/journal_article
@@ -621,7 +631,7 @@
       \verb https://www.cambridge.org/core/product/identifier/S1049096514001802/type/journal_article
       \endverb
     \endentry
-    \entry{ashworth_theory_2021}{book}{}{}
+    \entry{ashworthTheoryCredibilityIntegrating2021}{book}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=cee98a030c86873efad8014a3178684b}{%
            family={Ashworth},
@@ -667,16 +677,16 @@
       \field{abstract}{"As political science has come to depend more and more on quantitative methods, with a significant focus on causal identification (put simply, "what causes what"), there has been a growing concern that the questions scholars address are getting smaller, shrinking to include only those topics for which the so-called "identification problem" can be satisfactorily solved. Yet even if this problem cannot yet be solved for many important and complex topics--democracy, inequality, violence, stability, and many more--there is much left to learn; in particular, clear theories that provide better insight into the central mechanisms at work. These theories can help orient new empirical work, thus fueling a virtuous cycle between empirical and theoretical insights. In this ambitious book. Ashworth et al address this key challenge in the field with a new vision of how to connect empirical and theoretical work, one rooted in the idea of "all else equal." Theory, the authors argue, implicitly rests of the idea of "all-else-equal," and it's precisely this question that empirical work attempts to confirm. Thus theory and empirics have an intrinsic connection, and in recognizing this scholars can bridge the gap between the two. The first part of the book examines the "all-else-equal" connection and goes on to show how how theoretical models yield empirical implications and how substantive identification is the lynch-pin of a credible research design. The second part then follows the progressive back-and-forth between theory and empirics in existing scholarship, breaking these interactions into five types: reinterpreting, elaboration, distinguishing, disentangling, and modeling the research design. Each chapter in this section provides concrete examples, discussing a handful of papers that illustrates the relevant interaction between theory and empirics. The overall goal of the book is to facilitate a closer and more productive interaction between theory and empirics in social science"}
       \field{isbn}{978-0-691-21383-5 978-0-691-21382-8}
       \field{langid}{english}
-      \field{shorttitle}{Theory and credibility}
-      \field{title}{Theory and credibility: integrating theoretical and empirical social science}
+      \field{shorttitle}{Theory and Credibility}
+      \field{title}{Theory and Credibility: Integrating Theoretical and Empirical Social Science}
       \field{year}{2021}
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ashworth et al. - 2021 - Theory and credibility integrating theoretical and empirical social science.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ashworth et al. - 2021 - Theory and credibility integrating theoretical and empirical social science.pdf;/Users/filippo/Zotero/storage/P4GM4BS2/Ashworth et al. - 2021 - Theory and credibility integrating theoretical and empirical social science.pdf
       \endverb
     \endentry
-    \entry{axelrod_evolution_1981}{article}{}{}
+    \entry{axelrodEvolutionCooperation1981}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=e46fddf6d412d66cae997840c9ba5f34}{%
            family={Axelrod},
@@ -708,16 +718,16 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Cooperation in organisms, whether bacteria or primates, has been a difficulty for evolutionary theory since Darwin. On the assumption that interactions between pairs of individuals occur on a probabilistic basis, a model is developed based on the concept of an evolutionarily stable strategy in the context of the Prisoner's Dilemma game. Deductions from the model, and the results of a computer tournament show how cooperation based on reciprocity can get started in an asocial world, can thrive while interacting with a wide range of other strategies, and can resist invasion once fully established. Potential applications include specific aspects of territoriality, mating, and disease.}
       \field{langid}{english}
-      \field{title}{The Evolution of Cooperation}
+      \field{title}{The {{Evolution}} of {{Cooperation}}}
       \field{year}{1981}
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Axelrod and Hamilton - 1981 - The Evolution of Cooperation.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Axelrod and Hamilton - 1981 - The Evolution of Cooperation.pdf;/Users/filippo/Zotero/storage/7Y2MTXDQ/Axelrod and Hamilton - 1981 - The Evolution of Cooperation.pdf
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{ballester_whos_2006}{article}{}{}
+    \entry{ballesterWhosWhoNetworks2006}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=21d65bf23eaf1fc2ab3c1f80467547ea}{%
            family={Ballester},
@@ -759,8 +769,8 @@
       \field{langid}{english}
       \field{month}{9}
       \field{number}{5}
-      \field{shorttitle}{Who's Who in Networks. Wanted}
-      \field{title}{Who's Who in Networks. Wanted: The Key Player}
+      \field{shorttitle}{Who's {{Who}} in {{Networks}}. {{Wanted}}}
+      \field{title}{Who's {{Who}} in {{Networks}}. {{Wanted}}: {{The Key Player}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -775,7 +785,7 @@
       \verb 10.1111/j.1468-0262.2006.00709.x
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ballester et al. - 2006 - Who's Who in Networks. Wanted The Key Player 2.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ballester et al. - 2006 - Who's Who in Networks. Wanted The Key Player 2.pdf;/Users/filippo/Zotero/storage/62FYI7MF/Ballester et al. - 2006 - Who's Who in Networks. Wanted The Key Player 2.pdf
       \endverb
       \verb{urlraw}
       \verb http://doi.wiley.com/10.1111/j.1468-0262.2006.00709.x
@@ -784,7 +794,7 @@
       \verb http://doi.wiley.com/10.1111/j.1468-0262.2006.00709.x
       \endverb
     \endentry
-    \entry{bonacich_power_1987}{article}{}{}
+    \entry{bonacichPowerCentralityFamily1987}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=12121ca52ec8a4201d394b3b282a1502}{%
            family={Bonacich},
@@ -813,8 +823,8 @@
       \field{langid}{english}
       \field{month}{3}
       \field{number}{5}
-      \field{shorttitle}{Power and Centrality}
-      \field{title}{Power and Centrality: A Family of Measures}
+      \field{shorttitle}{Power and {{Centrality}}}
+      \field{title}{Power and {{Centrality}}: {{A Family}} of {{Measures}}}
       \field{urlday}{6}
       \field{urlmonth}{11}
       \field{urlyear}{2025}
@@ -829,7 +839,7 @@
       \verb 10.1086/228631
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Bonacich - 1987 - Power and Centrality A Family of Measures.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Bonacich - 1987 - Power and Centrality A Family of Measures.pdf;/Users/filippo/Zotero/storage/NIJ8NPU7/Bonacich - 1987 - Power and Centrality A Family of Measures.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.journals.uchicago.edu/doi/10.1086/228631
@@ -838,7 +848,7 @@
       \verb https://www.journals.uchicago.edu/doi/10.1086/228631
       \endverb
     \endentry
-    \entry{border_fixed_1999}{book}{}{}
+    \entry{borderFixedPointTheorems1999}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b32f1493c8c96ace6433cde42f00d22f}{%
            family={Border},
@@ -872,15 +882,15 @@
       \field{isbn}{978-0-521-26564-5 978-0-521-38808-5}
       \field{langid}{english}
       \field{pagetotal}{129}
-      \field{title}{Fixed point theorems with applications to economics and game theory}
+      \field{title}{Fixed Point Theorems with Applications to Economics and Game Theory}
       \field{year}{1999}
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Border - 1999 - Fixed point theorems with applications to economics and game theory.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Border - 1999 - Fixed point theorems with applications to economics and game theory.pdf;/Users/filippo/Zotero/storage/RRZYTJZC/Border - 1999 - Fixed point theorems with applications to economics and game theory.pdf
       \endverb
     \endentry
-    \entry{curini_theory_2020}{inbook}{}{}
+    \entry{brauningerTheoryBuildingCausal2020}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=f2c91e45e037ffb129887a7eebf24a10}{%
            family={Bräuninger},
@@ -908,10 +918,10 @@
            giveni={R\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {1 Oliver's Yard, 55 City Road London {EC}1Y 1SP}%
+        {1 Oliver's Yard,~55 City Road~London~EC1Y 1SP}%
       }
       \list{publisher}{1}{%
-        {{SAGE} Publications Ltd}%
+        {SAGE Publications Ltd}%
       }
       \strng{namehash}{73585987c1b6d7d698e588f67e8fd968}
       \strng{fullhash}{73585987c1b6d7d698e588f67e8fd968}
@@ -932,11 +942,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{The {SAGE} Handbook of Research Methods in Political Science and International Relations}
+      \field{booktitle}{The {{SAGE Handbook}} of {{Research Methods}} in {{Political Science}} and {{International Relations}}}
       \field{isbn}{978-1-5264-5993-0 978-1-5264-8638-7}
       \field{langid}{english}
-      \field{shorttitle}{Theory Building for Causal Inference}
-      \field{title}{Theory Building for Causal Inference: {EITM} Research Projects}
+      \field{shorttitle}{Theory {{Building}} for {{Causal Inference}}}
+      \field{title}{Theory {{Building}} for {{Causal Inference}}: {{EITM Research Projects}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -950,7 +960,7 @@
       \verb 10.4135/9781526486387.n10
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Bräuninger and Swalve - 2020 - Theory Building for Causal Inference EITM Research Projects.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Bräuninger and Swalve - 2020 - Theory Building for Causal Inference EITM Research Projects.pdf;/Users/filippo/Zotero/storage/GM5YN97L/Bräuninger and Swalve - 2020 - Theory Building for Causal Inference EITM Research Projects.pdf
       \endverb
       \verb{urlraw}
       \verb https://sk.sagepub.com/reference/the-sage-handbook-of-research-methods-in-political-science-and-ir/i1704.xml
@@ -959,7 +969,7 @@
       \verb https://sk.sagepub.com/reference/the-sage-handbook-of-research-methods-in-political-science-and-ir/i1704.xml
       \endverb
     \endentry
-    \entry{bueno_de_mesquita_commensurability_2020}{article}{}{}
+    \entry{buenodemesquitaCommensurabilityProblemConceptual2020}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=76cc66bde14e29635017c77db8009533}{%
            family={Bueno\bibnamedelimb De\bibnamedelima Mesquita},
@@ -995,8 +1005,8 @@
       \field{langid}{english}
       \field{month}{5}
       \field{number}{2}
-      \field{shorttitle}{The Commensurability Problem}
-      \field{title}{The Commensurability Problem: Conceptual Difficulties in Estimating the Effect of Behavior on Behavior}
+      \field{shorttitle}{The {{Commensurability Problem}}}
+      \field{title}{The {{Commensurability Problem}}: {{Conceptual Difficulties}} in {{Estimating}} the {{Effect}} of {{Behavior}} on {{Behavior}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -1011,7 +1021,7 @@
       \verb 10.1017/S0003055419000911
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Bueno De Mesquita and Tyson - 2020 - The Commensurability Problem Conceptual Difficulties in Estimating the Effect of Behavior on Behavi.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Bueno De Mesquita and Tyson - 2020 - The Commensurability Problem Conceptual Difficulties in Estimating the Effect of Behavior on Behavi.pdf;/Users/filippo/Zotero/storage/FENP3DKX/Bueno De Mesquita and Tyson - 2020 - The Commensurability Problem Conceptual Difficulties in Estimating the Effect of Behavior on Behavi.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.cambridge.org/core/product/identifier/S0003055419000911/type/journal_article
@@ -1020,7 +1030,7 @@
       \verb https://www.cambridge.org/core/product/identifier/S0003055419000911/type/journal_article
       \endverb
     \endentry
-    \entry{calvert_robustness_1985}{article}{}{}
+    \entry{calvertRobustnessMultidimensionalVoting1985}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=67318e220a77f4106b3ba90b138f47df}{%
            family={Calvert},
@@ -1044,13 +1054,14 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
+      \field{eprinttype}{jstor}
       \field{issn}{00925853}
       \field{journaltitle}{American Journal of Political Science}
       \field{langid}{english}
       \field{month}{2}
       \field{number}{1}
-      \field{shorttitle}{Robustness of the Multidimensional Voting Model}
-      \field{title}{Robustness of the Multidimensional Voting Model: Candidate Motivations, Uncertainty, and Convergence}
+      \field{shorttitle}{Robustness of the {{Multidimensional Voting Model}}}
+      \field{title}{Robustness of the {{Multidimensional Voting Model}}: {{Candidate Motivations}}, {{Uncertainty}}, and {{Convergence}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -1064,8 +1075,11 @@
       \verb{doi}
       \verb 10.2307/2111212
       \endverb
+      \verb{eprint}
+      \verb 2111212
+      \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Calvert - 1985 - Robustness of the Multidimensional Voting Model Candidate Motivations, Uncertainty, and Convergence.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Calvert - 1985 - Robustness of the Multidimensional Voting Model Candidate Motivations, Uncertainty, and Convergence.pdf;/Users/filippo/Zotero/storage/8YTHLIG9/Calvert - 1985 - Robustness of the Multidimensional Voting Model Candidate Motivations, Uncertainty, and Convergence.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.jstor.org/stable/2111212?origin=crossref
@@ -1074,7 +1088,7 @@
       \verb https://www.jstor.org/stable/2111212?origin=crossref
       \endverb
     \endentry
-    \entry{carrubba_defense_2007}{article}{}{}
+    \entry{carrubbaDefenseComparativeStatics2007}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=932170e144001358fea596dfeb11cf4c}{%
            family={Carrubba},
@@ -1115,8 +1129,8 @@
       \field{journaltitle}{Polit. anal.}
       \field{langid}{english}
       \field{number}{4}
-      \field{shorttitle}{In Defense of Comparative Statics}
-      \field{title}{In Defense of Comparative Statics: Specifying Empirical Tests of Models of Strategic Interaction}
+      \field{shorttitle}{In {{Defense}} of {{Comparative Statics}}}
+      \field{title}{In {{Defense}} of {{Comparative Statics}}: {{Specifying Empirical Tests}} of {{Models}} of {{Strategic Interaction}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -1131,7 +1145,7 @@
       \verb 10.1093/pan/mpm008
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Carrubba et al. - 2007 - In Defense of Comparative Statics Specifying Empirical Tests of Models of Strategic Interaction.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Carrubba et al. - 2007 - In Defense of Comparative Statics Specifying Empirical Tests of Models of Strategic Interaction.pdf;/Users/filippo/Zotero/storage/F457EWQB/Carrubba et al. - 2007 - In Defense of Comparative Statics Specifying Empirical Tests of Models of Strategic Interaction.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.cambridge.org/core/product/identifier/S1047198700006604/type/journal_article
@@ -1140,7 +1154,7 @@
       \verb https://www.cambridge.org/core/product/identifier/S1047198700006604/type/journal_article
       \endverb
     \endentry
-    \entry{clarke_modernizing_2007}{article}{}{}
+    \entry{clarkeModernizingPoliticalScience2007}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=3bd74dd36624f94c522d9715940a2690}{%
            family={Clarke},
@@ -1172,12 +1186,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{issn}{1537-5927, 1541-0986}
-      \field{journaltitle}{{PPS}}
+      \field{journaltitle}{PPS}
       \field{langid}{english}
       \field{month}{12}
-      \field{number}{4}
-      \field{shorttitle}{Modernizing Political Science}
-      \field{title}{Modernizing Political Science: A Model-Based Approach}
+      \field{number}{04}
+      \field{shorttitle}{Modernizing {{Political Science}}}
+      \field{title}{Modernizing {{Political Science}}: {{A Model-Based Approach}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -1190,7 +1204,7 @@
       \verb 10.1017/S1537592707072192
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Clarke and Primo - 2007 - Modernizing Political Science A Model-Based Approach.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Clarke and Primo - 2007 - Modernizing Political Science A Model-Based Approach.pdf;/Users/filippo/Zotero/storage/5DU9YI3C/Clarke and Primo - 2007 - Modernizing Political Science A Model-Based Approach.pdf;/Users/filippo/Zotero/storage/I5U6364F/Clarke and Primo - 2007 - Modernizing Political Science A Model-Based Approach.pdf;/Users/filippo/Zotero/storage/NZHMNDJN/Clarke and Primo - 2007 - Modernizing Political Science A Model-Based Approach.pdf
       \endverb
       \verb{urlraw}
       \verb http://www.journals.cambridge.org/abstract_S1537592707072192
@@ -1198,8 +1212,9 @@
       \verb{url}
       \verb http://www.journals.cambridge.org/abstract_S1537592707072192
       \endverb
+      \keyw{main}
     \endentry
-    \entry{clarke_model_2012}{book}{}{}
+    \entry{clarkeModelDisciplinePoliticalScience2012}{book}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=3bd74dd36624f94c522d9715940a2690}{%
            family={Clarke},
@@ -1237,7 +1252,7 @@
       \field{isbn}{978-0-19-538219-8}
       \field{langid}{english}
       \field{month}{1}
-      \field{title}{A Model {DisciplinePolitical} Science and the Logic of Representations}
+      \field{title}{A {{Model DisciplinePolitical Science}} and the {{Logic}} of {{Representations}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -1249,7 +1264,7 @@
       \verb 10.1093/acprof:oso/9780195382198.001.0001
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Clarke and Primo - 2012 - A Model DisciplinePolitical Science and the Logic of Representations.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Clarke and Primo - 2012 - A Model DisciplinePolitical Science and the Logic of Representations.pdf;/Users/filippo/Zotero/storage/8LD9LNFJ/Clarke and Primo - 2012 - A Model DisciplinePolitical Science and the Logic of Representations.pdf
       \endverb
       \verb{urlraw}
       \verb https://academic.oup.com/book/7512
@@ -1258,7 +1273,7 @@
       \verb https://academic.oup.com/book/7512
       \endverb
     \endentry
-    \entry{corbo_study_2006}{article}{}{}
+    \entry{corboStudyNashEquilibrium2006}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=4354b26e5afa2b738f2184379fd210be}{%
            family={Corbo},
@@ -1294,13 +1309,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{We consider a stylized model of content contribution in a peer-to-peer network. The model is appealing because it allows for linear-quadratic payoff functions and for very general interaction patterns among agents. Furthermore, when the model has a unique Nash equilibrium ({NE}) we ﬁnd that it is deﬁned by a network centrality measure (Bonacich 1987), with L1 and L2 norms of the Bonacich index vector providing aggregate contribution and social welfare. Furthermore, we ﬁnd that {NE} are always (even when they are non-unique) computable by solving a linear complementarity problem. We study the network designer’s problem of engineering the most efﬁcient equilibrium outcome, proving that maximizing aggregate contribution can be reconciled with maximizing aggregate welfare. We also provide a partial characterization of optimal {NE} graphs and suggest different approaches for how a network designer can promote more efﬁcient graph structures.}
+      \field{abstract}{We consider a stylized model of content contribution in a peer-to-peer network. The model is appealing because it allows for linear-quadratic payoff functions and for very general interaction patterns among agents. Furthermore, when the model has a unique Nash equilibrium (NE) we find that it is defined by a network centrality measure (Bonacich 1987), with L1 and L2 norms of the Bonacich index vector providing aggregate contribution and social welfare. Furthermore, we find that NE are always (even when they are non-unique) computable by solving a linear complementarity problem. We study the network designer’s problem of engineering the most efficient equilibrium outcome, proving that maximizing aggregate contribution can be reconciled with maximizing aggregate welfare. We also provide a partial characterization of optimal NE graphs and suggest different approaches for how a network designer can promote more efficient graph structures.}
       \field{issn}{0163-5980}
-      \field{journaltitle}{{SIGOPS} Oper. Syst. Rev.}
+      \field{journaltitle}{SIGOPS Oper. Syst. Rev.}
       \field{langid}{english}
       \field{month}{7}
       \field{number}{3}
-      \field{title}{A study of Nash equilibrium in contribution games for peer-to-peer networks}
+      \field{title}{A Study of {{Nash}} Equilibrium in Contribution Games for Peer-to-Peer Networks}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -1315,7 +1330,7 @@
       \verb 10.1145/1151374.1151388
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Corbo et al. - 2006 - A study of Nash equilibrium in contribution games for peer-to-peer networks.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Corbo et al. - 2006 - A study of Nash equilibrium in contribution games for peer-to-peer networks.pdf;/Users/filippo/Zotero/storage/2CRHDCX7/Corbo et al. - 2006 - A study of Nash equilibrium in contribution games for peer-to-peer networks.pdf
       \endverb
       \verb{urlraw}
       \verb https://dl.acm.org/doi/10.1145/1151374.1151388
@@ -1324,7 +1339,7 @@
       \verb https://dl.acm.org/doi/10.1145/1151374.1151388
       \endverb
     \endentry
-    \entry{diermeier_use_nodate}{article}{}{}
+    \entry{diermeierUseStructuralModels}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=75f56bd2ee589fe90ec73ecd8534a511}{%
            family={Diermeier},
@@ -1353,15 +1368,15 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{We discuss the role and implementation of the structural approach in empirical research and institutional analysis, with a particular focus on coalition politics. We use Diermeier, Eraslan and Merlo (2003) as a primary example to illustrate the thought process for the structural approach, the basic steps involved, especially in studying coalition politics, and the advantages of the model-based approach in analysing political phenomena and institutions. We also oﬀer our views on the future of the structural analysis of coalition politics.}
+      \field{abstract}{We discuss the role and implementation of the structural approach in empirical research and institutional analysis, with a particular focus on coalition politics. We use Diermeier, Eraslan and Merlo (2003) as a primary example to illustrate the thought process for the structural approach, the basic steps involved, especially in studying coalition politics, and the advantages of the model-based approach in analysing political phenomena and institutions. We also offer our views on the future of the structural analysis of coalition politics.}
       \field{langid}{english}
-      \field{title}{The Use of Structural Models in Coalition Politics}
+      \field{title}{The {{Use}} of {{Structural Models}} in {{Coalition Politics}}}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Diermeier and Li - The Use of Structural Models in Coalition Politics.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Diermeier and Li - The Use of Structural Models in Coalition Politics.pdf;/Users/filippo/Zotero/storage/CNW677VQ/Diermeier and Li - The Use of Structural Models in Coalition Politics.pdf
       \endverb
     \endentry
-    \entry{ellickson_estimating_nodate}{article}{}{}
+    \entry{ellicksonEstimatingDiscreteGames}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=9c176df36c9fe1f8a0f6ef7f36bbdedf}{%
            family={Ellickson},
@@ -1392,26 +1407,26 @@
       \field{labeltitlesource}{title}
       \field{abstract}{This paper provides a critical review of the methods for estimating static discrete games and their relevance for quantitative marketing. We discuss the various modeling approaches, alternative assumptions, and relevant trade-o§s involved in taking these empirical methods to data. We consider both games of complete and incomplete information, examine the primary methods for dealing with the coherency problems introduced by multiplicity of equilibria, and provide concrete examples from the literature. We illustrate the mechanics of estimation using a real world example and provide the computer code and dataset with which to replicate our results.}
       \field{langid}{english}
-      \field{title}{Estimating Discrete Games}
+      \field{title}{Estimating {{Discrete Games}}}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ellickson and Misra - Estimating Discrete Games.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ellickson and Misra - Estimating Discrete Games.pdf;/Users/filippo/Zotero/storage/GFQW48W3/Ellickson and Misra - Estimating Discrete Games.pdf
       \endverb
     \endentry
-    \entry{noauthor_evolution_nodate}{article}{}{}
+    \entry{EvolutionConventions}{article}{}{}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
       \field{langid}{english}
-      \field{title}{The Evolution of Conventions}
+      \field{title}{The {{Evolution}} of {{Conventions}}}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Young 1993 The Evolution of Conventions.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Young 1993 The Evolution of Conventions.pdf;/Users/filippo/Zotero/storage/QM9PZRGI/Young 1993 The Evolution of Conventions.pdf
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{gehlbach_formal_2013}{book}{}{}
+    \entry{gehlbachFormalModelsDomestic2013}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=39f42f974193ab8810abe025ad70e15f}{%
            family={Gehlbach},
@@ -1438,16 +1453,16 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{series}{Analytical Methods for Social Research}
-      \field{title}{Formal Models of Domestic Politics}
+      \field{series}{Analytical {{Methods}} for {{Social Research}}}
+      \field{title}{Formal {{Models}} of {{Domestic Politics}}}
       \field{year}{2013}
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb Gehlbach S. 2013 Formal Models of Domestic Politics. Cambridge University Pres:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Gehlbach S. 2013 Formal Models of Domestic Politics. Cambridge University Pres.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Gehlbach S. 2013 Formal Models of Domestic Politics. Cambridge University Pres.pdf;/Users/filippo/Zotero/storage/QRQLPZNT/Gehlbach S. 2013 Formal Models of Domestic Politics. Cambridge University Pres.pdf
       \endverb
     \endentry
-    \entry{groseclose_buying_1996}{article}{}{}
+    \entry{grosecloseBuyingSupermajorities1996}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8fe97a62d026fb85304219ff5cd3c5c4}{%
            family={Groseclose},
@@ -1461,6 +1476,9 @@
            given={James\bibnamedelima M.},
            giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
       }
       \strng{namehash}{6f950c8c59d3ffb450abffd16f086103}
       \strng{fullhash}{6f950c8c59d3ffb450abffd16f086103}
@@ -1478,11 +1496,11 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Minimal winning coalitions have appeared as a key prediction or as an essential assumption of virtually all formal models of coalition formation, vote buying, and logrolling. Notwithstanding this research, we provide a model showing that supermajority coalitions may be cheaper than minimal winning coalitions. Specifically, if vote buyers move sequentially, and if the losing vote buyer is always granted a last chance to attack the winner's coalition, then minimal winning coalitions will generally not be cheapest, and equilibrium coalitions will generally not be minimal winning. We provide results relating equilibrium coalition size with preferences of the legislators and vote buyers, and we show that minimal winning coalitions should occur in only rare cases. We discuss these results in light of empirical work on coalition size and suggest other possible avenues for testing our model.}
+      \field{edition}{2014/08/01}
       \field{issn}{0003-0554}
       \field{journaltitle}{American Political Science Review}
-      \field{note}{Edition: 2014/08/01 Publisher: Cambridge University Press}
       \field{number}{2}
-      \field{title}{Buying Supermajorities}
+      \field{title}{Buying {{Supermajorities}}}
       \field{volume}{90}
       \field{year}{1996}
       \field{dateera}{ce}
@@ -1499,7 +1517,7 @@
       \verb https://www.cambridge.org/core/product/2A797D3C2E464B0ABF326B85A22B4DB7
       \endverb
     \endentry
-    \entry{hellmann_evolution_nodate}{article}{}{}
+    \entry{hellmannEvolutionSocialNetworks}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8897073f06024c6462bd646c70b98c75}{%
            family={Hellmann},
@@ -1528,15 +1546,15 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Modeling the evolution of networks is central to our understanding of modern large communication systems, such as the World-Wide-Web, as well as economic and social networks. The research on social and economic networks is truly interdisciplinary and the number of modeling strategies and concepts is enormous. In this survey we present some modeling approaches, covering classical random graph models and game-theoretic models, which may be used to provide a uniﬁed framework to model and analyze the evolution of networks.}
+      \field{abstract}{Modeling the evolution of networks is central to our understanding of modern large communication systems, such as the World-Wide-Web, as well as economic and social networks. The research on social and economic networks is truly interdisciplinary and the number of modeling strategies and concepts is enormous. In this survey we present some modeling approaches, covering classical random graph models and game-theoretic models, which may be used to provide a unified framework to model and analyze the evolution of networks.}
       \field{langid}{english}
-      \field{title}{Evolution of social networks}
+      \field{title}{Evolution of Social Networks}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Hellmann and Staudigl - Evolution of social networks.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Hellmann and Staudigl - Evolution of social networks.pdf;/Users/filippo/Zotero/storage/K2BQ2NUC/Hellmann and Staudigl - Evolution of social networks.pdf
       \endverb
     \endentry
-    \entry{hofbauer_evolutionary_2003}{book}{}{}
+    \entry{hofbauerEvolutionaryGamesPopulation2003}{book}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d71144ac72326ab9019b0195d37d8502}{%
            family={Hofbauer},
@@ -1576,15 +1594,15 @@
       \field{isbn}{978-0-521-62365-0 978-0-521-62570-8}
       \field{langid}{english}
       \field{pagetotal}{323}
-      \field{title}{Evolutionary games and population dynamics}
+      \field{title}{Evolutionary Games and Population Dynamics}
       \field{year}{2003}
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Hofbauer and Sigmund - 2003 - Evolutionary games and population dynamics.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Hofbauer and Sigmund - 2003 - Evolutionary games and population dynamics.pdf;/Users/filippo/Zotero/storage/WHNY788G/Hofbauer and Sigmund - 2003 - Evolutionary games and population dynamics.pdf
       \endverb
     \endentry
-    \entry{holt_bilateral_2024}{article}{}{}
+    \entry{holtBilateralConflictExperimental2024}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8bd376c53bda4713d4ef793ca22737d8}{%
            family={Holt},
@@ -1620,8 +1638,8 @@
       \field{langid}{english}
       \field{month}{10}
       \field{number}{4}
-      \field{shorttitle}{Bilateral Conflict}
-      \field{title}{Bilateral Conflict: An Experimental Study of Strategic Effectiveness and Equilibrium}
+      \field{shorttitle}{Bilateral {{Conflict}}}
+      \field{title}{Bilateral {{Conflict}}: {{An Experimental Study}} of {{Strategic Effectiveness}} and {{Equilibrium}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -1636,7 +1654,7 @@
       \verb 10.1111/ajps.12810
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Holt and Palfrey - 2024 - Bilateral Conflict An Experimental Study of Strategic Effectiveness and Equilibrium.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Holt and Palfrey - 2024 - Bilateral Conflict An Experimental Study of Strategic Effectiveness and Equilibrium.pdf
       \endverb
       \verb{urlraw}
       \verb https://onlinelibrary.wiley.com/doi/10.1111/ajps.12810
@@ -1645,7 +1663,7 @@
       \verb https://onlinelibrary.wiley.com/doi/10.1111/ajps.12810
       \endverb
     \endentry
-    \entry{johnson_models-as-fables_2021}{article}{}{}
+    \entry{johnsonModelsAsFablesAlternativeStandard2021}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=89376d05e0012a14a3fc913258e2d066}{%
            family={Johnson},
@@ -1675,8 +1693,8 @@
       \field{langid}{english}
       \field{month}{9}
       \field{number}{3}
-      \field{shorttitle}{Models-As-Fables}
-      \field{title}{Models-As-Fables: An Alternative to the Standard Rationale for Using Formal Models in Political Science}
+      \field{shorttitle}{Models-{{As-Fables}}}
+      \field{title}{Models-{{As-Fables}}: {{An Alternative}} to the {{Standard Rationale}} for {{Using Formal Models}} in {{Political Science}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -1691,7 +1709,7 @@
       \verb 10.1017/S1537592720003473
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Johnson - 2021 - Models-As-Fables An Alternative to the Standard Rationale for Using Formal Models in Political Scie.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Johnson - 2021 - Models-As-Fables An Alternative to the Standard Rationale for Using Formal Models in Political Scie.pdf;/Users/filippo/Zotero/storage/4JNJZD5F/Johnson - 2021 - Models-As-Fables An Alternative to the Standard Rationale for Using Formal Models in Political Scie.pdf;/Users/filippo/Zotero/storage/7YVBPYT7/Johnson - 2021 - Models-As-Fables An Alternative to the Standard Rationale for Using Formal Models in Political Scie.pdf;/Users/filippo/Zotero/storage/IUHL5C8W/Johnson - 2021 - Models-As-Fables An Alternative to the Standard Rationale for Using Formal Models in Political Scie.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.cambridge.org/core/product/identifier/S1537592720003473/type/journal_article
@@ -1699,8 +1717,9 @@
       \verb{url}
       \verb https://www.cambridge.org/core/product/identifier/S1537592720003473/type/journal_article
       \endverb
+      \keyw{main}
     \endentry
-    \entry{kandori_learning_1993}{article}{}{}
+    \entry{kandoriLearningMutationLong1993}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=8b94a4262be92938bd845f065bd440a1}{%
            family={Kandori},
@@ -1736,12 +1755,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{eprinttype}{jstor}
       \field{issn}{00129682}
       \field{journaltitle}{Econometrica}
       \field{langid}{english}
       \field{month}{1}
       \field{number}{1}
-      \field{title}{Learning, Mutation, and Long Run Equilibria in Games}
+      \field{title}{Learning, {{Mutation}}, and {{Long Run Equilibria}} in {{Games}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -1755,8 +1775,11 @@
       \verb{doi}
       \verb 10.2307/2951777
       \endverb
+      \verb{eprint}
+      \verb 2951777
+      \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Kandori et al. - 1993 - Learning, Mutation, and Long Run Equilibria in Games.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Kandori et al. - 1993 - Learning, Mutation, and Long Run Equilibria in Games.pdf;/Users/filippo/Zotero/storage/LXE744Y8/Kandori et al. - 1993 - Learning, Mutation, and Long Run Equilibria in Games.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.jstor.org/stable/2951777?origin=crossref
@@ -1764,9 +1787,9 @@
       \verb{url}
       \verb https://www.jstor.org/stable/2951777?origin=crossref
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{korner_vectors_nodate}{article}{}{}
+    \entry{kornerVectorsPureApplied}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c2b561a00fe663e416b4aa1531c19880}{%
            family={Körner},
@@ -1790,13 +1813,13 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
-      \field{title}{Vectors, Pure and Applied}
+      \field{title}{Vectors, {{Pure}} and {{Applied}}}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Körner - Vectors, Pure and Applied.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Körner - Vectors, Pure and Applied.pdf;/Users/filippo/Zotero/storage/S4P6BBUQ/Körner - Vectors, Pure and Applied.pdf
       \endverb
     \endentry
-    \entry{lieberson_implication_2008}{article}{}{}
+    \entry{liebersonImplicationAnalysisPragmatic2008}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=e48e0b56014f593a0d513fe43a3afeec}{%
            family={Lieberson},
@@ -1832,8 +1855,8 @@
       \field{langid}{english}
       \field{month}{8}
       \field{number}{1}
-      \field{shorttitle}{Implication Analysis}
-      \field{title}{Implication Analysis: A Pragmatic Proposal for Linking Theory and Data in the Social Sciences}
+      \field{shorttitle}{Implication {{Analysis}}}
+      \field{title}{Implication {{Analysis}}: {{A Pragmatic Proposal}} for {{Linking Theory}} and {{Data}} in the {{Social Sciences}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -1848,7 +1871,7 @@
       \verb 10.1111/j.1467-9531.2008.00199.x
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Lieberson and Horwich - 2008 - Implication Analysis A Pragmatic Proposal for Linking Theory and Data in the Social Sciences.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Lieberson and Horwich - 2008 - Implication Analysis A Pragmatic Proposal for Linking Theory and Data in the Social Sciences.pdf;/Users/filippo/Zotero/storage/L346DW92/Lieberson and Horwich - 2008 - Implication Analysis A Pragmatic Proposal for Linking Theory and Data in the Social Sciences.pdf
       \endverb
       \verb{urlraw}
       \verb https://journals.sagepub.com/doi/10.1111/j.1467-9531.2008.00199.x
@@ -1857,7 +1880,7 @@
       \verb https://journals.sagepub.com/doi/10.1111/j.1467-9531.2008.00199.x
       \endverb
     \endentry
-    \entry{lin_equilibrium_nodate}{article}{}{}
+    \entry{linEquilibriumMulticandidateProbabilistic}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=577e1836ff1c07ed2e21749360fb38d9}{%
            family={Lin},
@@ -1892,18 +1915,18 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{This paper presents a multicandidate spatial model of probabilistic voting in which voter utility functions contain a random element speciﬁc to each candidate. The model assumes no abstentions, sincere voting, and the maximization of expected vote by each candidate. We derive a sufﬁcient condition for concavity of the candidate expected vote function with which the existence of equilibrium is related to the degree of voter uncertainty. We show that, under concavity, convergent equilibrium exists at a “minimum-sum point” at which total distances from all voter ideal points are minimized. We then discuss the location of convergent equilibrium for various measures of distance. In our examples, computer analysis indicates that non-convergent equilibria are only locally stable and disappear as voter uncertainty increases.}
+      \field{abstract}{This paper presents a multicandidate spatial model of probabilistic voting in which voter utility functions contain a random element specific to each candidate. The model assumes no abstentions, sincere voting, and the maximization of expected vote by each candidate. We derive a sufficient condition for concavity of the candidate expected vote function with which the existence of equilibrium is related to the degree of voter uncertainty. We show that, under concavity, convergent equilibrium exists at a “minimum-sum point” at which total distances from all voter ideal points are minimized. We then discuss the location of convergent equilibrium for various measures of distance. In our examples, computer analysis indicates that non-convergent equilibria are only locally stable and disappear as voter uncertainty increases.}
       \field{langid}{english}
-      \field{title}{Equilibrium in multicandidate probabilistic spatial voting}
+      \field{title}{Equilibrium in Multicandidate Probabilistic Spatial Voting}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Lin et al. - Equilibrium in multicandidate probabilistic spatial voting.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Lin et al. - Equilibrium in multicandidate probabilistic spatial voting.pdf;/Users/filippo/Zotero/storage/H77MTBD6/Lin et al. - Equilibrium in multicandidate probabilistic spatial voting.pdf
       \endverb
     \endentry
-    \entry{mckelvey_quantal_1995}{article}{}{}
+    \entry{mckelveyQuantalResponseEquilibria1995}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=0e9527c01edc1545dbf5751af3036020}{%
-           family={{McKelvey}},
+           family={McKelvey},
            familyi={M\bibinitperiod},
            given={Richard\bibnamedelima D.},
            giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
@@ -1930,11 +1953,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{We investigate the use of standard statistical models for quantal choice in a game theoretic setting. Players choose strategies based on relative expected utility and assume other players do so as well. We define a quantal response equilibrium ({ORE}) as a fixed point of this process and establish existence. For a logit specification of the error structure, we show that as the error goes to zero, {QRE} approaches a subset of Nash equilibria and also implies a unique selection from the set of Nash equilibria in generic games. We fit the model to a variety of experimental data sets by using maximum likelihood estimation. Journal of Economic Literature Classification Numbers: C19, C44, C72, C92.}
+      \field{abstract}{We investigate the use of standard statistical models for quantal choice in a game theoretic setting. Players choose strategies based on relative expected utility and assume other players do so as well. We define a quantal response equilibrium (ORE) as a fixed point of this process and establish existence. For a logit specification of the error structure, we show that as the error goes to zero, QRE approaches a subset of Nash equilibria and also implies a unique selection from the set of Nash equilibria in generic games. We fit the model to a variety of experimental data sets by using maximum likelihood estimation. Journal of Economic Literature Classification Numbers: C19, C44, C72, C92.}
       \field{issn}{0899-8256}
       \field{journaltitle}{Games and Economic Behavior}
       \field{number}{1}
-      \field{title}{Quantal Response Equilibria for Normal Form Games}
+      \field{title}{Quantal {{Response Equilibria}} for {{Normal Form Games}}}
       \field{volume}{10}
       \field{year}{1995}
       \field{dateera}{ce}
@@ -1942,10 +1965,10 @@
       \field{pages}{6\bibrangedash 38}
       \range{pages}{33}
       \verb{doi}
-      \verb https://doi.org/10.1006/game.1995.1023
+      \verb 10.1006/game.1995.1023
       \endverb
       \verb{file}
-      \verb McKelvey, Palfrey 1995 Quantal Response Equilibria for Normal Form Games, Games and Economic Behavior, Volume 10, Issue 1, Pages 6-38:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/McKelvey, Palfrey 1995 Quantal Response Equilibria for Normal Form Games, Games and Economic Behavior, Volume 10, Issue 1, Pages 6-38.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/McKelvey, Palfrey 1995 Quantal Response Equilibria for Normal Form Games, Games and Economic Behavior, Volume 10, Issue 1, Pages 6-38.pdf;/Users/filippo/Zotero/storage/MRDI4GGB/McKelvey, Palfrey 1995 Quantal Response Equilibria for Normal Form Games, Games and Economic Behavior, Volume 10, Issue 1, Pages 6-38.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.sciencedirect.com/science/article/pii/S0899825685710238
@@ -1954,7 +1977,7 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0899825685710238
       \endverb
     \endentry
-    \entry{morton_methods_2005}{book}{}{}
+    \entry{mortonMethodsModelsGuide2005}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5e9e5679f187d174aa649eedba92b799}{%
            family={Morton},
@@ -1988,16 +2011,16 @@
       \field{isbn}{978-0-521-63300-0 978-0-521-63394-9}
       \field{langid}{english}
       \field{pagetotal}{326}
-      \field{shorttitle}{Methods and models}
-      \field{title}{Methods and models: a guide to the empirical analysis of formal models in political science}
+      \field{shorttitle}{Methods and Models}
+      \field{title}{Methods and Models: A Guide to the Empirical Analysis of Formal Models in Political Science}
       \field{year}{2005}
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Morton - 2005 - Methods and models a guide to the empirical analysis of formal models in political science.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Morton - 2005 - Methods and models a guide to the empirical analysis of formal models in political science.pdf;/Users/filippo/Zotero/storage/CVIRBBWY/Morton - 2005 - Methods and models a guide to the empirical analysis of formal models in political science.pdf
       \endverb
     \endentry
-    \entry{nowak_five_nodate}{article}{}{}
+    \entry{nowakFiveRulesEvolution}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6b63180e77466ce81c34087d70a19cb9}{%
            family={Nowak},
@@ -2022,14 +2045,14 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
-      \field{title}{Five Rules for the Evolution of Cooperation}
+      \field{title}{Five {{Rules}} for the {{Evolution}} of {{Cooperation}}}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Nowak - Five Rules for the Evolution of Cooperation.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Nowak - Five Rules for the Evolution of Cooperation.pdf
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{nowak_evolutionary_2006}{book}{}{}
+    \entry{nowakEvolutionaryDynamicsExploring2006}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6b63180e77466ce81c34087d70a19cb9}{%
            family={Nowak},
@@ -2063,17 +2086,17 @@
       \field{isbn}{978-0-674-02338-3 978-0-674-41774-8}
       \field{langid}{english}
       \field{pagetotal}{1}
-      \field{shorttitle}{Evolutionary dynamics}
-      \field{title}{Evolutionary dynamics: exploring the equations of life}
+      \field{shorttitle}{Evolutionary Dynamics}
+      \field{title}{Evolutionary Dynamics: Exploring the Equations of Life}
       \field{year}{2006}
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Nowak - 2006 - Evolutionary dynamics exploring the equations of life.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Nowak - 2006 - Evolutionary dynamics exploring the equations of life.pdf
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{nowak_evolutionary_1992}{article}{}{}
+    \entry{nowakEvolutionaryGamesSpatial1992}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=6b63180e77466ce81c34087d70a19cb9}{%
            family={Nowak},
@@ -2108,7 +2131,7 @@
       \field{langid}{english}
       \field{month}{10}
       \field{number}{6398}
-      \field{title}{Evolutionary games and spatial chaos}
+      \field{title}{Evolutionary Games and Spatial Chaos}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -2123,7 +2146,7 @@
       \verb 10.1038/359826a0
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Nowak and May - 1992 - Evolutionary games and spatial chaos.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Nowak and May - 1992 - Evolutionary games and spatial chaos.pdf;/Users/filippo/Zotero/storage/3E5ZF5BD/Nowak and May - 1992 - Evolutionary games and spatial chaos.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.nature.com/articles/359826a0
@@ -2131,9 +2154,9 @@
       \verb{url}
       \verb https://www.nature.com/articles/359826a0
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{nowak_evolution_1998}{article}{}{}
+    \entry{nowakEvolutionIndirectReciprocity1998}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=6b63180e77466ce81c34087d70a19cb9}{%
            family={Nowak},
@@ -2168,7 +2191,7 @@
       \field{langid}{english}
       \field{month}{6}
       \field{number}{6685}
-      \field{title}{Evolution of indirect reciprocity by image scoring}
+      \field{title}{Evolution of Indirect Reciprocity by Image Scoring}
       \field{urlday}{11}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -2183,7 +2206,7 @@
       \verb 10.1038/31225
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Nowak and Sigmund - 1998 - Evolution of indirect reciprocity by image scoring.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Nowak and Sigmund - 1998 - Evolution of indirect reciprocity by image scoring.pdf;/Users/filippo/Zotero/storage/EKQLHQ97/Nowak and Sigmund - 1998 - Evolution of indirect reciprocity by image scoring.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.nature.com/articles/31225
@@ -2191,9 +2214,9 @@
       \verb{url}
       \verb https://www.nature.com/articles/31225
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{ohtsuki_simple_2006}{article}{}{}
+    \entry{ohtsukiSimpleRuleEvolution2006}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=9b0d27af1cdc3f0989b039b1934582e9}{%
            family={Ohtsuki},
@@ -2240,7 +2263,7 @@
       \field{langid}{english}
       \field{month}{5}
       \field{number}{7092}
-      \field{title}{A simple rule for the evolution of cooperation on graphs and social networks}
+      \field{title}{A Simple Rule for the Evolution of Cooperation on Graphs and Social Networks}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -2255,7 +2278,7 @@
       \verb 10.1038/nature04605
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ohtsuki et al. - 2006 - A simple rule for the evolution of cooperation on graphs and social networks.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ohtsuki et al. - 2006 - A simple rule for the evolution of cooperation on graphs and social networks.pdf;/Users/filippo/Zotero/storage/EAI4C9S4/Ohtsuki et al. - 2006 - A simple rule for the evolution of cooperation on graphs and social networks.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.nature.com/articles/nature04605
@@ -2263,9 +2286,9 @@
       \verb{url}
       \verb https://www.nature.com/articles/nature04605
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{pearl_causality_2009}{book}{}{}
+    \entry{pearlCausalityModelsReasoning2009}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=809f695b398afbb54b544c49e8d1bbbb}{%
            family={Pearl},
@@ -2275,7 +2298,7 @@
            givenun=0}}%
       }
       \list{location}{1}{%
-        {Cambridge, {UK}}%
+        {Cambridge, UK}%
       }
       \list{publisher}{1}{%
         {Cambridge University Press}%
@@ -2297,16 +2320,17 @@
       \field{labeltitlesource}{title}
       \field{edition}{2}
       \field{isbn}{978-0-521-89560-6}
-      \field{title}{Causality: Models, Reasoning, and Inference}
+      \field{note}{Chapters 1–2 define causal diagrams (DAGs) and the structural model framework.}
+      \field{title}{Causality: {{Models}}, {{Reasoning}}, and {{Inference}}}
       \field{year}{2009}
       \field{dateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.1017/CBO9780511803161
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{safina_beyond_2015}{book}{}{}
+    \entry{safinaWordsWhatAnimals2015}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceabcca9adf94dd30afe731487d84e80}{%
            family={Safina},
@@ -2318,9 +2342,8 @@
       \list{location}{1}{%
         {New York}%
       }
-      \list{publisher}{2}{%
-        {Henry Holt}%
-        {Company}%
+      \list{publisher}{1}{%
+        {Henry Holt and Company}%
       }
       \strng{namehash}{ceabcca9adf94dd30afe731487d84e80}
       \strng{fullhash}{ceabcca9adf94dd30afe731487d84e80}
@@ -2338,13 +2361,14 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-8050-9888-4}
-      \field{title}{Beyond Words: What Animals Think and Feel}
+      \field{note}{Explores animal cognition and emotions, linking behavioral evidence with questions of consciousness.}
+      \field{title}{Beyond {{Words}}: {{What Animals Think}} and {{Feel}}}
       \field{year}{2015}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{schelling_strategy_1960}{book}{}{}
+    \entry{schellingStrategyConflict1960}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=437acf28afb8c05b38d6de93b43ff96f}{%
            family={Schelling},
@@ -2354,7 +2378,7 @@
            givenun=0}}%
       }
       \list{location}{1}{%
-        {Cambridge, {MA}}%
+        {Cambridge, MA}%
       }
       \list{publisher}{1}{%
         {Harvard University Press}%
@@ -2375,13 +2399,14 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-674-84031-7}
-      \field{title}{The Strategy of Conflict}
+      \field{note}{Classic work on strategic behavior and conflict theory.}
+      \field{title}{The {{Strategy}} of {{Conflict}}}
       \field{year}{1960}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{signorino_structure_2003}{article}{}{}
+    \entry{signorinoStructureUncertaintyDiscrete2003}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a3e93d97102e37a6d36e3404a721fb84}{%
            family={Signorino},
@@ -2410,7 +2435,7 @@
       \field{journaltitle}{Polit. anal.}
       \field{langid}{english}
       \field{number}{4}
-      \field{title}{Structure and Uncertainty in Discrete Choice Models}
+      \field{title}{Structure and {{Uncertainty}} in {{Discrete Choice Models}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -2425,7 +2450,7 @@
       \verb 10.1093/pan/mpg020
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Signorino - 2003 - Structure and Uncertainty in Discrete Choice Models.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Signorino - 2003 - Structure and Uncertainty in Discrete Choice Models.pdf;/Users/filippo/Zotero/storage/MUCNTT9Q/Signorino - 2003 - Structure and Uncertainty in Discrete Choice Models.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.cambridge.org/core/product/identifier/S1047198700010391/type/journal_article
@@ -2434,7 +2459,7 @@
       \verb https://www.cambridge.org/core/product/identifier/S1047198700010391/type/journal_article
       \endverb
     \endentry
-    \entry{silberberg_structure_2001}{book}{}{}
+    \entry{silberbergStructureEconomicsMathematical2001}{book}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b1501fd9406c6951ead8453aa1b93366}{%
            family={Silberberg},
@@ -2459,7 +2484,7 @@
         {Boston}%
       }
       \list{publisher}{1}{%
-        {Irwin {McGraw}-Hill}%
+        {Irwin McGraw-Hill}%
       }
       \strng{namehash}{c7e2c1649b27d37c86a0689f247f29a3}
       \strng{fullhash}{c71c11652872919f08410caebbf05d7e}
@@ -2480,16 +2505,16 @@
       \field{isbn}{978-0-07-234352-6 978-0-07-118136-5}
       \field{langid}{english}
       \field{pagetotal}{668}
-      \field{shorttitle}{The structure of economics}
-      \field{title}{The structure of economics: a mathematical analysis}
+      \field{shorttitle}{The Structure of Economics}
+      \field{title}{The Structure of Economics: A Mathematical Analysis}
       \field{year}{2001}
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Silberberg et al. - 2001 - The structure of economics a mathematical analysis.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Silberberg et al. - 2001 - The structure of economics a mathematical analysis.pdf;/Users/filippo/Zotero/storage/DCPA2ACH/Silberberg et al. - 2001 - The structure of economics a mathematical analysis.pdf
       \endverb
     \endentry
-    \entry{smith_testing_1999}{article}{}{}
+    \entry{smithTestingTheoriesStrategic1999}{article}{}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=25aa82ea7724670d1e7620846b14c105}{%
            family={Smith},
@@ -2512,13 +2537,14 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
+      \field{eprinttype}{jstor}
       \field{issn}{00925853}
       \field{journaltitle}{American Journal of Political Science}
       \field{langid}{english}
       \field{month}{10}
       \field{number}{4}
-      \field{shorttitle}{Testing Theories of Strategic Choice}
-      \field{title}{Testing Theories of Strategic Choice: The Example of Crisis Escalation}
+      \field{shorttitle}{Testing {{Theories}} of {{Strategic Choice}}}
+      \field{title}{Testing {{Theories}} of {{Strategic Choice}}: {{The Example}} of {{Crisis Escalation}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -2532,8 +2558,11 @@
       \verb{doi}
       \verb 10.2307/2991827
       \endverb
+      \verb{eprint}
+      \verb 2991827
+      \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Smith - 1999 - Testing Theories of Strategic Choice The Example of Crisis Escalation.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Smith - 1999 - Testing Theories of Strategic Choice The Example of Crisis Escalation.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.jstor.org/stable/2991827?origin=crossref
@@ -2541,9 +2570,9 @@
       \verb{url}
       \verb https://www.jstor.org/stable/2991827?origin=crossref
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{smith_logic_1973}{article}{}{}
+    \entry{smithLogicAnimalConflict1973}{article}{}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=b160198f3d05f6e292928980596af3aa}{%
            family={Smith},
@@ -2568,17 +2597,17 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
-      \field{title}{The logic of Animal Conflict}
+      \field{title}{The Logic of {{Animal Conflict}}}
       \field{volume}{246}
       \field{year}{1973}
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Smith - 1973 - The logic of Animal COnflict.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Smith - 1973 - The logic of Animal COnflict.pdf;/Users/filippo/Zotero/storage/NK5LC8MJ/Smith - 1973 - The logic of Animal COnflict.pdf
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{smith_evolution_1982}{book}{}{}
+    \entry{smithEvolutionTheoryGames1982}{book}{}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=25d2c56a364fcad994a29ad74f1fb8f4}{%
            family={Smith},
@@ -2609,13 +2638,14 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-521-28884-2}
-      \field{title}{Evolution and the Theory of Games}
+      \field{note}{Introduces evolutionary game theory; see chapter 5 for discussion on conflict avoidance under perfect information.}
+      \field{title}{Evolution and the {{Theory}} of {{Games}}}
       \field{year}{1982}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{szabo_evolutionary_2007}{article}{}{}
+    \entry{szaboEvolutionaryGamesGraphs2007}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a8462c4421c4b773d2d268d775c69ddf}{%
            family={Szabó},
@@ -2645,13 +2675,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Game theory is one of the key paradigms behind many scientiﬁc disciplines from biology to behavioral sciences to economics. In its evolutionary form and especially when the interacting agents are linked in a speciﬁc social network the underlying solution concepts and methods are very similar to those applied in non-equilibrium statistical physics. This review gives a tutorial-type overview of the ﬁeld for physicists. The ﬁrst four sections introduce the necessary background in classical and evolutionary game theory from the basic deﬁnitions to the most important results. The ﬁfth section surveys the topological complications implied by non-mean-ﬁeld-type social network structures in general. The next three sections discuss in detail the dynamic behavior of three prominent classes of models: the Prisoner’s Dilemma, the Rock–Scissors–Paper game, and Competing Associations. The major theme of the review is in what sense and how the graph structure of interactions can modify and enrich the picture of long term behavioral patterns emerging in evolutionary games.}
+      \field{abstract}{Game theory is one of the key paradigms behind many scientific disciplines from biology to behavioral sciences to economics. In its evolutionary form and especially when the interacting agents are linked in a specific social network the underlying solution concepts and methods are very similar to those applied in non-equilibrium statistical physics. This review gives a tutorial-type overview of the field for physicists. The first four sections introduce the necessary background in classical and evolutionary game theory from the basic definitions to the most important results. The fifth section surveys the topological complications implied by non-mean-field-type social network structures in general. The next three sections discuss in detail the dynamic behavior of three prominent classes of models: the Prisoner’s Dilemma, the Rock–Scissors–Paper game, and Competing Associations. The major theme of the review is in what sense and how the graph structure of interactions can modify and enrich the picture of long term behavioral patterns emerging in evolutionary games.}
       \field{issn}{03701573}
       \field{journaltitle}{Physics Reports}
       \field{langid}{english}
       \field{month}{7}
-      \field{number}{4}
-      \field{title}{Evolutionary games on graphs}
+      \field{number}{4--6}
+      \field{title}{Evolutionary Games on Graphs}
       \field{urlday}{11}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -2666,7 +2696,7 @@
       \verb 10.1016/j.physrep.2007.04.004
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Szabó and Fáth - 2007 - Evolutionary games on graphs.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Szabó and Fáth - 2007 - Evolutionary games on graphs.pdf;/Users/filippo/Zotero/storage/UW4YEBCA/Szabó and Fáth - 2007 - Evolutionary games on graphs.pdf
       \endverb
       \verb{urlraw}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0370157307001810
@@ -2674,9 +2704,9 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0370157307001810
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{taylor_evolutionary_2004}{article}{}{}
+    \entry{taylorEvolutionaryGameDynamics2004}{article}{}{}
       \name{author}{4}{}{%
         {{un=1,uniquepart=given,hash=c0336ed54af5be4d03c863b005eaa8e0}{%
            family={Taylor},
@@ -2722,7 +2752,7 @@
       \field{langid}{english}
       \field{month}{11}
       \field{number}{6}
-      \field{title}{Evolutionary game dynamics in finite populations}
+      \field{title}{Evolutionary Game Dynamics in Finite Populations}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -2737,7 +2767,7 @@
       \verb 10.1016/j.bulm.2004.03.004
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Taylor et al. - 2004 - Evolutionary game dynamics in finite populations.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Taylor et al. - 2004 - Evolutionary game dynamics in finite populations.pdf;/Users/filippo/Zotero/storage/LX42J9K3/Taylor et al. - 2004 - Evolutionary game dynamics in finite populations.pdf
       \endverb
       \verb{urlraw}
       \verb http://link.springer.com/10.1016/j.bulm.2004.03.004
@@ -2745,9 +2775,9 @@
       \verb{url}
       \verb http://link.springer.com/10.1016/j.bulm.2004.03.004
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{taylor_evolutionary_1978}{article}{}{}
+    \entry{taylorEvolutionaryStableStrategies1978}{article}{}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=5a0c5546a0d450041d91198fdf1c0094}{%
            family={Taylor},
@@ -2780,8 +2810,8 @@
       \field{journaltitle}{Mathematical Biosciences}
       \field{langid}{english}
       \field{month}{7}
-      \field{number}{1}
-      \field{title}{Evolutionary stable strategies and game dynamics}
+      \field{number}{1--2}
+      \field{title}{Evolutionary Stable Strategies and Game Dynamics}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -2796,7 +2826,7 @@
       \verb 10.1016/0025-5564(78)90077-9
       \endverb
       \verb{file}
-      \verb Peter D. Taylor, Leo B. Jonker, Evolutionary stable strategies and game dynamics, Mathematical Biosciences, Volume 40, Issues 1–2, 1978, Pages 145-156, ISSN 0025-5564:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Peter Taylor, Jonker 1978 Evolutionary stable strategies and game dynamics, Mathematical Biosciences, Volume 40, Issues 1–2, Pages 145-156, ISSN 0025-5564.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Peter Taylor, Jonker 1978 Evolutionary stable strategies and game dynamics, Mathematical Biosciences, Volume 40, Issues 1–2, Pages 145-156, ISSN 0025-5564.pdf;/Users/filippo/Zotero/storage/BKR692RZ/Peter Taylor, Jonker 1978 Evolutionary stable strategies and game dynamics, Mathematical Biosciences, Volume 40, Issues 1–2, Pages 145-156, ISSN 0025-5564.pdf
       \endverb
       \verb{urlraw}
       \verb https://linkinghub.elsevier.com/retrieve/pii/0025556478900779
@@ -2804,11 +2834,11 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/0025556478900779
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
-    \entry{angrist_credibility_nodate}{article}{}{}
+    \entry{angristCredibilityRevolutionEmpirical}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ee326f34eea24952d04c41cef1771bfc}{%
            family={Angrist},
@@ -2838,13 +2868,13 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
-      \field{title}{The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con out of Econometrics}
+      \field{title}{The {{Credibility Revolution}} in {{Empirical Economics}}: {{How Better Research Design Is Taking}} the {{Con}} out of {{Econometrics}}}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Angrist and Pischke - The Credibility Revolution in Empirical Economics How Better Research Design Is Taking the Con out.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Angrist and Pischke - The Credibility Revolution in Empirical Economics How Better Research Design Is Taking the Con out.pdf;/Users/filippo/Zotero/storage/DA63TQ2W/Angrist and Pischke - The Credibility Revolution in Empirical Economics How Better Research Design Is Taking the Con out.pdf
       \endverb
     \endentry
-    \entry{ansolabehere_valence_nodate}{article}{}{}
+    \entry{ansolabehereValencePoliticsEquilibrium}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b4eb159d441c4c0f7b14bb55b6e910c7}{%
            family={Ansolabehere},
@@ -2873,15 +2903,15 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Spatial models of two-party or two-candidate competition almost never have purestrategy Nash equilibria when the issue space has more than one dimension. This paper shows that the introduction of valence issues can create conditions where equilibria exist, even in a multidimensional setting. We derive sufﬁcient conditions for the existence of equilibria, and characterize the spatial locations of two competing parties or candidates when such equilibria exist. The party with the advantage on the valence dimension will generally take a moderate position on the positional issues. We consider the implications of these results for public perceptions of the parties, incumbency advantages, and realigning elections.}
+      \field{abstract}{Spatial models of two-party or two-candidate competition almost never have purestrategy Nash equilibria when the issue space has more than one dimension. This paper shows that the introduction of valence issues can create conditions where equilibria exist, even in a multidimensional setting. We derive sufficient conditions for the existence of equilibria, and characterize the spatial locations of two competing parties or candidates when such equilibria exist. The party with the advantage on the valence dimension will generally take a moderate position on the positional issues. We consider the implications of these results for public perceptions of the parties, incumbency advantages, and realigning elections.}
       \field{langid}{english}
-      \field{title}{Valence Politics and Equilibrium in Spatial Election Models}
+      \field{title}{Valence {{Politics}} and {{Equilibrium}} in {{Spatial Election Models}}}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ansolabehere and Snyder - Valence Politics and Equilibrium in Spatial Election Models.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ansolabehere and Snyder - Valence Politics and Equilibrium in Spatial Election Models.pdf;/Users/filippo/Zotero/storage/8GBLJV9N/Ansolabehere and Snyder - Valence Politics and Equilibrium in Spatial Election Models.pdf
       \endverb
     \endentry
-    \entry{ashworth_theory_2021}{book}{}{}
+    \entry{ashworthTheoryCredibilityIntegrating2021}{book}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=cee98a030c86873efad8014a3178684b}{%
            family={Ashworth},
@@ -2927,16 +2957,16 @@
       \field{abstract}{"As political science has come to depend more and more on quantitative methods, with a significant focus on causal identification (put simply, "what causes what"), there has been a growing concern that the questions scholars address are getting smaller, shrinking to include only those topics for which the so-called "identification problem" can be satisfactorily solved. Yet even if this problem cannot yet be solved for many important and complex topics--democracy, inequality, violence, stability, and many more--there is much left to learn; in particular, clear theories that provide better insight into the central mechanisms at work. These theories can help orient new empirical work, thus fueling a virtuous cycle between empirical and theoretical insights. In this ambitious book. Ashworth et al address this key challenge in the field with a new vision of how to connect empirical and theoretical work, one rooted in the idea of "all else equal." Theory, the authors argue, implicitly rests of the idea of "all-else-equal," and it's precisely this question that empirical work attempts to confirm. Thus theory and empirics have an intrinsic connection, and in recognizing this scholars can bridge the gap between the two. The first part of the book examines the "all-else-equal" connection and goes on to show how how theoretical models yield empirical implications and how substantive identification is the lynch-pin of a credible research design. The second part then follows the progressive back-and-forth between theory and empirics in existing scholarship, breaking these interactions into five types: reinterpreting, elaboration, distinguishing, disentangling, and modeling the research design. Each chapter in this section provides concrete examples, discussing a handful of papers that illustrates the relevant interaction between theory and empirics. The overall goal of the book is to facilitate a closer and more productive interaction between theory and empirics in social science"}
       \field{isbn}{978-0-691-21383-5 978-0-691-21382-8}
       \field{langid}{english}
-      \field{shorttitle}{Theory and credibility}
-      \field{title}{Theory and credibility: integrating theoretical and empirical social science}
+      \field{shorttitle}{Theory and Credibility}
+      \field{title}{Theory and Credibility: Integrating Theoretical and Empirical Social Science}
       \field{year}{2021}
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ashworth et al. - 2021 - Theory and credibility integrating theoretical and empirical social science.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ashworth et al. - 2021 - Theory and credibility integrating theoretical and empirical social science.pdf;/Users/filippo/Zotero/storage/P4GM4BS2/Ashworth et al. - 2021 - Theory and credibility integrating theoretical and empirical social science.pdf
       \endverb
     \endentry
-    \entry{ashworth_all_2015}{article}{}{}
+    \entry{ashworthAllElseEqual2015}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=cee98a030c86873efad8014a3178684b}{%
            family={Ashworth},
@@ -2974,11 +3004,11 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1049-0965, 1537-5935}
-      \field{journaltitle}{{APSC}}
+      \field{journaltitle}{APSC}
       \field{langid}{english}
       \field{month}{1}
       \field{number}{1}
-      \field{title}{All Else Equal in Theory and Data (Big or Small)}
+      \field{title}{All {{Else Equal}} in {{Theory}} and {{Data}} ({{Big}} or {{Small}})}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -2993,7 +3023,7 @@
       \verb 10.1017/S1049096514001802
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ashworth et al. - 2015 - All Else Equal in Theory and Data (Big or Small).pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ashworth et al. - 2015 - All Else Equal in Theory and Data (Big or Small).pdf;/Users/filippo/Zotero/storage/DNMINZ4R/Ashworth et al. - 2015 - All Else Equal in Theory and Data (Big or Small).pdf
       \endverb
       \verb{urlraw}
       \verb https://www.cambridge.org/core/product/identifier/S1049096514001802/type/journal_article
@@ -3002,7 +3032,7 @@
       \verb https://www.cambridge.org/core/product/identifier/S1049096514001802/type/journal_article
       \endverb
     \endentry
-    \entry{ashworth_monotone_2006}{article}{}{}
+    \entry{ashworthMonotoneComparativeStatics2006}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=cee98a030c86873efad8014a3178684b}{%
            family={Ashworth},
@@ -3038,7 +3068,7 @@
       \field{langid}{english}
       \field{month}{1}
       \field{number}{1}
-      \field{title}{Monotone Comparative Statics for Models of Politics}
+      \field{title}{Monotone {{Comparative Statics}} for {{Models}} of {{Politics}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -3053,7 +3083,7 @@
       \verb 10.1111/j.1540-5907.2006.00180.x
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ashworth and Bueno De Mesquita - 2006 - Monotone Comparative Statics for Models of Politics.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ashworth and Bueno De Mesquita - 2006 - Monotone Comparative Statics for Models of Politics.pdf;/Users/filippo/Zotero/storage/3PM3WNRR/Ashworth and Bueno De Mesquita - 2006 - Monotone Comparative Statics for Models of Politics.pdf
       \endverb
       \verb{urlraw}
       \verb https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00180.x
@@ -3062,7 +3092,7 @@
       \verb https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00180.x
       \endverb
     \endentry
-    \entry{axelrod_evolution_1981}{article}{}{}
+    \entry{axelrodEvolutionCooperation1981}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=e46fddf6d412d66cae997840c9ba5f34}{%
            family={Axelrod},
@@ -3094,16 +3124,16 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Cooperation in organisms, whether bacteria or primates, has been a difficulty for evolutionary theory since Darwin. On the assumption that interactions between pairs of individuals occur on a probabilistic basis, a model is developed based on the concept of an evolutionarily stable strategy in the context of the Prisoner's Dilemma game. Deductions from the model, and the results of a computer tournament show how cooperation based on reciprocity can get started in an asocial world, can thrive while interacting with a wide range of other strategies, and can resist invasion once fully established. Potential applications include specific aspects of territoriality, mating, and disease.}
       \field{langid}{english}
-      \field{title}{The Evolution of Cooperation}
+      \field{title}{The {{Evolution}} of {{Cooperation}}}
       \field{year}{1981}
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Axelrod and Hamilton - 1981 - The Evolution of Cooperation.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Axelrod and Hamilton - 1981 - The Evolution of Cooperation.pdf;/Users/filippo/Zotero/storage/7Y2MTXDQ/Axelrod and Hamilton - 1981 - The Evolution of Cooperation.pdf
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{ballester_whos_2006}{article}{}{}
+    \entry{ballesterWhosWhoNetworks2006}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=21d65bf23eaf1fc2ab3c1f80467547ea}{%
            family={Ballester},
@@ -3145,8 +3175,8 @@
       \field{langid}{english}
       \field{month}{9}
       \field{number}{5}
-      \field{shorttitle}{Who's Who in Networks. Wanted}
-      \field{title}{Who's Who in Networks. Wanted: The Key Player}
+      \field{shorttitle}{Who's {{Who}} in {{Networks}}. {{Wanted}}}
+      \field{title}{Who's {{Who}} in {{Networks}}. {{Wanted}}: {{The Key Player}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -3161,7 +3191,7 @@
       \verb 10.1111/j.1468-0262.2006.00709.x
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ballester et al. - 2006 - Who's Who in Networks. Wanted The Key Player 2.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ballester et al. - 2006 - Who's Who in Networks. Wanted The Key Player 2.pdf;/Users/filippo/Zotero/storage/62FYI7MF/Ballester et al. - 2006 - Who's Who in Networks. Wanted The Key Player 2.pdf
       \endverb
       \verb{urlraw}
       \verb http://doi.wiley.com/10.1111/j.1468-0262.2006.00709.x
@@ -3170,7 +3200,7 @@
       \verb http://doi.wiley.com/10.1111/j.1468-0262.2006.00709.x
       \endverb
     \endentry
-    \entry{bonacich_power_1987}{article}{}{}
+    \entry{bonacichPowerCentralityFamily1987}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=12121ca52ec8a4201d394b3b282a1502}{%
            family={Bonacich},
@@ -3199,8 +3229,8 @@
       \field{langid}{english}
       \field{month}{3}
       \field{number}{5}
-      \field{shorttitle}{Power and Centrality}
-      \field{title}{Power and Centrality: A Family of Measures}
+      \field{shorttitle}{Power and {{Centrality}}}
+      \field{title}{Power and {{Centrality}}: {{A Family}} of {{Measures}}}
       \field{urlday}{6}
       \field{urlmonth}{11}
       \field{urlyear}{2025}
@@ -3215,7 +3245,7 @@
       \verb 10.1086/228631
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Bonacich - 1987 - Power and Centrality A Family of Measures.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Bonacich - 1987 - Power and Centrality A Family of Measures.pdf;/Users/filippo/Zotero/storage/NIJ8NPU7/Bonacich - 1987 - Power and Centrality A Family of Measures.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.journals.uchicago.edu/doi/10.1086/228631
@@ -3224,7 +3254,7 @@
       \verb https://www.journals.uchicago.edu/doi/10.1086/228631
       \endverb
     \endentry
-    \entry{border_fixed_1999}{book}{}{}
+    \entry{borderFixedPointTheorems1999}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b32f1493c8c96ace6433cde42f00d22f}{%
            family={Border},
@@ -3258,15 +3288,15 @@
       \field{isbn}{978-0-521-26564-5 978-0-521-38808-5}
       \field{langid}{english}
       \field{pagetotal}{129}
-      \field{title}{Fixed point theorems with applications to economics and game theory}
+      \field{title}{Fixed Point Theorems with Applications to Economics and Game Theory}
       \field{year}{1999}
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Border - 1999 - Fixed point theorems with applications to economics and game theory.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Border - 1999 - Fixed point theorems with applications to economics and game theory.pdf;/Users/filippo/Zotero/storage/RRZYTJZC/Border - 1999 - Fixed point theorems with applications to economics and game theory.pdf
       \endverb
     \endentry
-    \entry{curini_theory_2020}{inbook}{}{}
+    \entry{brauningerTheoryBuildingCausal2020}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=f2c91e45e037ffb129887a7eebf24a10}{%
            family={Bräuninger},
@@ -3294,10 +3324,10 @@
            giveni={R\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {1 Oliver's Yard, 55 City Road London {EC}1Y 1SP}%
+        {1 Oliver's Yard,~55 City Road~London~EC1Y 1SP}%
       }
       \list{publisher}{1}{%
-        {{SAGE} Publications Ltd}%
+        {SAGE Publications Ltd}%
       }
       \strng{namehash}{73585987c1b6d7d698e588f67e8fd968}
       \strng{fullhash}{73585987c1b6d7d698e588f67e8fd968}
@@ -3318,11 +3348,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{The {SAGE} Handbook of Research Methods in Political Science and International Relations}
+      \field{booktitle}{The {{SAGE Handbook}} of {{Research Methods}} in {{Political Science}} and {{International Relations}}}
       \field{isbn}{978-1-5264-5993-0 978-1-5264-8638-7}
       \field{langid}{english}
-      \field{shorttitle}{Theory Building for Causal Inference}
-      \field{title}{Theory Building for Causal Inference: {EITM} Research Projects}
+      \field{shorttitle}{Theory {{Building}} for {{Causal Inference}}}
+      \field{title}{Theory {{Building}} for {{Causal Inference}}: {{EITM Research Projects}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -3336,7 +3366,7 @@
       \verb 10.4135/9781526486387.n10
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Bräuninger and Swalve - 2020 - Theory Building for Causal Inference EITM Research Projects.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Bräuninger and Swalve - 2020 - Theory Building for Causal Inference EITM Research Projects.pdf;/Users/filippo/Zotero/storage/GM5YN97L/Bräuninger and Swalve - 2020 - Theory Building for Causal Inference EITM Research Projects.pdf
       \endverb
       \verb{urlraw}
       \verb https://sk.sagepub.com/reference/the-sage-handbook-of-research-methods-in-political-science-and-ir/i1704.xml
@@ -3345,7 +3375,7 @@
       \verb https://sk.sagepub.com/reference/the-sage-handbook-of-research-methods-in-political-science-and-ir/i1704.xml
       \endverb
     \endentry
-    \entry{bueno_de_mesquita_commensurability_2020}{article}{}{}
+    \entry{buenodemesquitaCommensurabilityProblemConceptual2020}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=76cc66bde14e29635017c77db8009533}{%
            family={Bueno\bibnamedelimb De\bibnamedelima Mesquita},
@@ -3381,8 +3411,8 @@
       \field{langid}{english}
       \field{month}{5}
       \field{number}{2}
-      \field{shorttitle}{The Commensurability Problem}
-      \field{title}{The Commensurability Problem: Conceptual Difficulties in Estimating the Effect of Behavior on Behavior}
+      \field{shorttitle}{The {{Commensurability Problem}}}
+      \field{title}{The {{Commensurability Problem}}: {{Conceptual Difficulties}} in {{Estimating}} the {{Effect}} of {{Behavior}} on {{Behavior}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -3397,7 +3427,7 @@
       \verb 10.1017/S0003055419000911
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Bueno De Mesquita and Tyson - 2020 - The Commensurability Problem Conceptual Difficulties in Estimating the Effect of Behavior on Behavi.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Bueno De Mesquita and Tyson - 2020 - The Commensurability Problem Conceptual Difficulties in Estimating the Effect of Behavior on Behavi.pdf;/Users/filippo/Zotero/storage/FENP3DKX/Bueno De Mesquita and Tyson - 2020 - The Commensurability Problem Conceptual Difficulties in Estimating the Effect of Behavior on Behavi.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.cambridge.org/core/product/identifier/S0003055419000911/type/journal_article
@@ -3406,7 +3436,7 @@
       \verb https://www.cambridge.org/core/product/identifier/S0003055419000911/type/journal_article
       \endverb
     \endentry
-    \entry{calvert_robustness_1985}{article}{}{}
+    \entry{calvertRobustnessMultidimensionalVoting1985}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=67318e220a77f4106b3ba90b138f47df}{%
            family={Calvert},
@@ -3430,13 +3460,14 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
+      \field{eprinttype}{jstor}
       \field{issn}{00925853}
       \field{journaltitle}{American Journal of Political Science}
       \field{langid}{english}
       \field{month}{2}
       \field{number}{1}
-      \field{shorttitle}{Robustness of the Multidimensional Voting Model}
-      \field{title}{Robustness of the Multidimensional Voting Model: Candidate Motivations, Uncertainty, and Convergence}
+      \field{shorttitle}{Robustness of the {{Multidimensional Voting Model}}}
+      \field{title}{Robustness of the {{Multidimensional Voting Model}}: {{Candidate Motivations}}, {{Uncertainty}}, and {{Convergence}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -3450,8 +3481,11 @@
       \verb{doi}
       \verb 10.2307/2111212
       \endverb
+      \verb{eprint}
+      \verb 2111212
+      \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Calvert - 1985 - Robustness of the Multidimensional Voting Model Candidate Motivations, Uncertainty, and Convergence.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Calvert - 1985 - Robustness of the Multidimensional Voting Model Candidate Motivations, Uncertainty, and Convergence.pdf;/Users/filippo/Zotero/storage/8YTHLIG9/Calvert - 1985 - Robustness of the Multidimensional Voting Model Candidate Motivations, Uncertainty, and Convergence.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.jstor.org/stable/2111212?origin=crossref
@@ -3460,7 +3494,7 @@
       \verb https://www.jstor.org/stable/2111212?origin=crossref
       \endverb
     \endentry
-    \entry{carrubba_defense_2007}{article}{}{}
+    \entry{carrubbaDefenseComparativeStatics2007}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=932170e144001358fea596dfeb11cf4c}{%
            family={Carrubba},
@@ -3501,8 +3535,8 @@
       \field{journaltitle}{Polit. anal.}
       \field{langid}{english}
       \field{number}{4}
-      \field{shorttitle}{In Defense of Comparative Statics}
-      \field{title}{In Defense of Comparative Statics: Specifying Empirical Tests of Models of Strategic Interaction}
+      \field{shorttitle}{In {{Defense}} of {{Comparative Statics}}}
+      \field{title}{In {{Defense}} of {{Comparative Statics}}: {{Specifying Empirical Tests}} of {{Models}} of {{Strategic Interaction}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -3517,7 +3551,7 @@
       \verb 10.1093/pan/mpm008
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Carrubba et al. - 2007 - In Defense of Comparative Statics Specifying Empirical Tests of Models of Strategic Interaction.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Carrubba et al. - 2007 - In Defense of Comparative Statics Specifying Empirical Tests of Models of Strategic Interaction.pdf;/Users/filippo/Zotero/storage/F457EWQB/Carrubba et al. - 2007 - In Defense of Comparative Statics Specifying Empirical Tests of Models of Strategic Interaction.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.cambridge.org/core/product/identifier/S1047198700006604/type/journal_article
@@ -3526,7 +3560,7 @@
       \verb https://www.cambridge.org/core/product/identifier/S1047198700006604/type/journal_article
       \endverb
     \endentry
-    \entry{clarke_modernizing_2007}{article}{}{}
+    \entry{clarkeModernizingPoliticalScience2007}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=3bd74dd36624f94c522d9715940a2690}{%
            family={Clarke},
@@ -3558,12 +3592,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{issn}{1537-5927, 1541-0986}
-      \field{journaltitle}{{PPS}}
+      \field{journaltitle}{PPS}
       \field{langid}{english}
       \field{month}{12}
-      \field{number}{4}
-      \field{shorttitle}{Modernizing Political Science}
-      \field{title}{Modernizing Political Science: A Model-Based Approach}
+      \field{number}{04}
+      \field{shorttitle}{Modernizing {{Political Science}}}
+      \field{title}{Modernizing {{Political Science}}: {{A Model-Based Approach}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -3576,7 +3610,7 @@
       \verb 10.1017/S1537592707072192
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Clarke and Primo - 2007 - Modernizing Political Science A Model-Based Approach.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Clarke and Primo - 2007 - Modernizing Political Science A Model-Based Approach.pdf;/Users/filippo/Zotero/storage/5DU9YI3C/Clarke and Primo - 2007 - Modernizing Political Science A Model-Based Approach.pdf;/Users/filippo/Zotero/storage/I5U6364F/Clarke and Primo - 2007 - Modernizing Political Science A Model-Based Approach.pdf;/Users/filippo/Zotero/storage/NZHMNDJN/Clarke and Primo - 2007 - Modernizing Political Science A Model-Based Approach.pdf
       \endverb
       \verb{urlraw}
       \verb http://www.journals.cambridge.org/abstract_S1537592707072192
@@ -3584,8 +3618,9 @@
       \verb{url}
       \verb http://www.journals.cambridge.org/abstract_S1537592707072192
       \endverb
+      \keyw{main}
     \endentry
-    \entry{clarke_model_2012}{book}{}{}
+    \entry{clarkeModelDisciplinePoliticalScience2012}{book}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=3bd74dd36624f94c522d9715940a2690}{%
            family={Clarke},
@@ -3623,7 +3658,7 @@
       \field{isbn}{978-0-19-538219-8}
       \field{langid}{english}
       \field{month}{1}
-      \field{title}{A Model {DisciplinePolitical} Science and the Logic of Representations}
+      \field{title}{A {{Model DisciplinePolitical Science}} and the {{Logic}} of {{Representations}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -3635,7 +3670,7 @@
       \verb 10.1093/acprof:oso/9780195382198.001.0001
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Clarke and Primo - 2012 - A Model DisciplinePolitical Science and the Logic of Representations.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Clarke and Primo - 2012 - A Model DisciplinePolitical Science and the Logic of Representations.pdf;/Users/filippo/Zotero/storage/8LD9LNFJ/Clarke and Primo - 2012 - A Model DisciplinePolitical Science and the Logic of Representations.pdf
       \endverb
       \verb{urlraw}
       \verb https://academic.oup.com/book/7512
@@ -3644,7 +3679,7 @@
       \verb https://academic.oup.com/book/7512
       \endverb
     \endentry
-    \entry{corbo_study_2006}{article}{}{}
+    \entry{corboStudyNashEquilibrium2006}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=4354b26e5afa2b738f2184379fd210be}{%
            family={Corbo},
@@ -3680,13 +3715,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{We consider a stylized model of content contribution in a peer-to-peer network. The model is appealing because it allows for linear-quadratic payoff functions and for very general interaction patterns among agents. Furthermore, when the model has a unique Nash equilibrium ({NE}) we ﬁnd that it is deﬁned by a network centrality measure (Bonacich 1987), with L1 and L2 norms of the Bonacich index vector providing aggregate contribution and social welfare. Furthermore, we ﬁnd that {NE} are always (even when they are non-unique) computable by solving a linear complementarity problem. We study the network designer’s problem of engineering the most efﬁcient equilibrium outcome, proving that maximizing aggregate contribution can be reconciled with maximizing aggregate welfare. We also provide a partial characterization of optimal {NE} graphs and suggest different approaches for how a network designer can promote more efﬁcient graph structures.}
+      \field{abstract}{We consider a stylized model of content contribution in a peer-to-peer network. The model is appealing because it allows for linear-quadratic payoff functions and for very general interaction patterns among agents. Furthermore, when the model has a unique Nash equilibrium (NE) we find that it is defined by a network centrality measure (Bonacich 1987), with L1 and L2 norms of the Bonacich index vector providing aggregate contribution and social welfare. Furthermore, we find that NE are always (even when they are non-unique) computable by solving a linear complementarity problem. We study the network designer’s problem of engineering the most efficient equilibrium outcome, proving that maximizing aggregate contribution can be reconciled with maximizing aggregate welfare. We also provide a partial characterization of optimal NE graphs and suggest different approaches for how a network designer can promote more efficient graph structures.}
       \field{issn}{0163-5980}
-      \field{journaltitle}{{SIGOPS} Oper. Syst. Rev.}
+      \field{journaltitle}{SIGOPS Oper. Syst. Rev.}
       \field{langid}{english}
       \field{month}{7}
       \field{number}{3}
-      \field{title}{A study of Nash equilibrium in contribution games for peer-to-peer networks}
+      \field{title}{A Study of {{Nash}} Equilibrium in Contribution Games for Peer-to-Peer Networks}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -3701,7 +3736,7 @@
       \verb 10.1145/1151374.1151388
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Corbo et al. - 2006 - A study of Nash equilibrium in contribution games for peer-to-peer networks.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Corbo et al. - 2006 - A study of Nash equilibrium in contribution games for peer-to-peer networks.pdf;/Users/filippo/Zotero/storage/2CRHDCX7/Corbo et al. - 2006 - A study of Nash equilibrium in contribution games for peer-to-peer networks.pdf
       \endverb
       \verb{urlraw}
       \verb https://dl.acm.org/doi/10.1145/1151374.1151388
@@ -3710,7 +3745,7 @@
       \verb https://dl.acm.org/doi/10.1145/1151374.1151388
       \endverb
     \endentry
-    \entry{diermeier_use_nodate}{article}{}{}
+    \entry{diermeierUseStructuralModels}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=75f56bd2ee589fe90ec73ecd8534a511}{%
            family={Diermeier},
@@ -3739,15 +3774,15 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{We discuss the role and implementation of the structural approach in empirical research and institutional analysis, with a particular focus on coalition politics. We use Diermeier, Eraslan and Merlo (2003) as a primary example to illustrate the thought process for the structural approach, the basic steps involved, especially in studying coalition politics, and the advantages of the model-based approach in analysing political phenomena and institutions. We also oﬀer our views on the future of the structural analysis of coalition politics.}
+      \field{abstract}{We discuss the role and implementation of the structural approach in empirical research and institutional analysis, with a particular focus on coalition politics. We use Diermeier, Eraslan and Merlo (2003) as a primary example to illustrate the thought process for the structural approach, the basic steps involved, especially in studying coalition politics, and the advantages of the model-based approach in analysing political phenomena and institutions. We also offer our views on the future of the structural analysis of coalition politics.}
       \field{langid}{english}
-      \field{title}{The Use of Structural Models in Coalition Politics}
+      \field{title}{The {{Use}} of {{Structural Models}} in {{Coalition Politics}}}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Diermeier and Li - The Use of Structural Models in Coalition Politics.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Diermeier and Li - The Use of Structural Models in Coalition Politics.pdf;/Users/filippo/Zotero/storage/CNW677VQ/Diermeier and Li - The Use of Structural Models in Coalition Politics.pdf
       \endverb
     \endentry
-    \entry{ellickson_estimating_nodate}{article}{}{}
+    \entry{ellicksonEstimatingDiscreteGames}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=9c176df36c9fe1f8a0f6ef7f36bbdedf}{%
            family={Ellickson},
@@ -3778,26 +3813,26 @@
       \field{labeltitlesource}{title}
       \field{abstract}{This paper provides a critical review of the methods for estimating static discrete games and their relevance for quantitative marketing. We discuss the various modeling approaches, alternative assumptions, and relevant trade-o§s involved in taking these empirical methods to data. We consider both games of complete and incomplete information, examine the primary methods for dealing with the coherency problems introduced by multiplicity of equilibria, and provide concrete examples from the literature. We illustrate the mechanics of estimation using a real world example and provide the computer code and dataset with which to replicate our results.}
       \field{langid}{english}
-      \field{title}{Estimating Discrete Games}
+      \field{title}{Estimating {{Discrete Games}}}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ellickson and Misra - Estimating Discrete Games.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ellickson and Misra - Estimating Discrete Games.pdf;/Users/filippo/Zotero/storage/GFQW48W3/Ellickson and Misra - Estimating Discrete Games.pdf
       \endverb
     \endentry
-    \entry{noauthor_evolution_nodate}{article}{}{}
+    \entry{EvolutionConventions}{article}{}{}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
       \field{langid}{english}
-      \field{title}{The Evolution of Conventions}
+      \field{title}{The {{Evolution}} of {{Conventions}}}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Young 1993 The Evolution of Conventions.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Young 1993 The Evolution of Conventions.pdf;/Users/filippo/Zotero/storage/QM9PZRGI/Young 1993 The Evolution of Conventions.pdf
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{gehlbach_formal_2013}{book}{}{}
+    \entry{gehlbachFormalModelsDomestic2013}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=39f42f974193ab8810abe025ad70e15f}{%
            family={Gehlbach},
@@ -3824,16 +3859,16 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{series}{Analytical Methods for Social Research}
-      \field{title}{Formal Models of Domestic Politics}
+      \field{series}{Analytical {{Methods}} for {{Social Research}}}
+      \field{title}{Formal {{Models}} of {{Domestic Politics}}}
       \field{year}{2013}
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb Gehlbach S. 2013 Formal Models of Domestic Politics. Cambridge University Pres:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Gehlbach S. 2013 Formal Models of Domestic Politics. Cambridge University Pres.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Gehlbach S. 2013 Formal Models of Domestic Politics. Cambridge University Pres.pdf;/Users/filippo/Zotero/storage/QRQLPZNT/Gehlbach S. 2013 Formal Models of Domestic Politics. Cambridge University Pres.pdf
       \endverb
     \endentry
-    \entry{groseclose_buying_1996}{article}{}{}
+    \entry{grosecloseBuyingSupermajorities1996}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8fe97a62d026fb85304219ff5cd3c5c4}{%
            family={Groseclose},
@@ -3847,6 +3882,9 @@
            given={James\bibnamedelima M.},
            giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
       }
       \strng{namehash}{6f950c8c59d3ffb450abffd16f086103}
       \strng{fullhash}{6f950c8c59d3ffb450abffd16f086103}
@@ -3864,11 +3902,11 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Minimal winning coalitions have appeared as a key prediction or as an essential assumption of virtually all formal models of coalition formation, vote buying, and logrolling. Notwithstanding this research, we provide a model showing that supermajority coalitions may be cheaper than minimal winning coalitions. Specifically, if vote buyers move sequentially, and if the losing vote buyer is always granted a last chance to attack the winner's coalition, then minimal winning coalitions will generally not be cheapest, and equilibrium coalitions will generally not be minimal winning. We provide results relating equilibrium coalition size with preferences of the legislators and vote buyers, and we show that minimal winning coalitions should occur in only rare cases. We discuss these results in light of empirical work on coalition size and suggest other possible avenues for testing our model.}
+      \field{edition}{2014/08/01}
       \field{issn}{0003-0554}
       \field{journaltitle}{American Political Science Review}
-      \field{note}{Edition: 2014/08/01 Publisher: Cambridge University Press}
       \field{number}{2}
-      \field{title}{Buying Supermajorities}
+      \field{title}{Buying {{Supermajorities}}}
       \field{volume}{90}
       \field{year}{1996}
       \field{dateera}{ce}
@@ -3885,7 +3923,7 @@
       \verb https://www.cambridge.org/core/product/2A797D3C2E464B0ABF326B85A22B4DB7
       \endverb
     \endentry
-    \entry{hellmann_evolution_nodate}{article}{}{}
+    \entry{hellmannEvolutionSocialNetworks}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8897073f06024c6462bd646c70b98c75}{%
            family={Hellmann},
@@ -3914,15 +3952,15 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Modeling the evolution of networks is central to our understanding of modern large communication systems, such as the World-Wide-Web, as well as economic and social networks. The research on social and economic networks is truly interdisciplinary and the number of modeling strategies and concepts is enormous. In this survey we present some modeling approaches, covering classical random graph models and game-theoretic models, which may be used to provide a uniﬁed framework to model and analyze the evolution of networks.}
+      \field{abstract}{Modeling the evolution of networks is central to our understanding of modern large communication systems, such as the World-Wide-Web, as well as economic and social networks. The research on social and economic networks is truly interdisciplinary and the number of modeling strategies and concepts is enormous. In this survey we present some modeling approaches, covering classical random graph models and game-theoretic models, which may be used to provide a unified framework to model and analyze the evolution of networks.}
       \field{langid}{english}
-      \field{title}{Evolution of social networks}
+      \field{title}{Evolution of Social Networks}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Hellmann and Staudigl - Evolution of social networks.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Hellmann and Staudigl - Evolution of social networks.pdf;/Users/filippo/Zotero/storage/K2BQ2NUC/Hellmann and Staudigl - Evolution of social networks.pdf
       \endverb
     \endentry
-    \entry{hofbauer_evolutionary_2003}{book}{}{}
+    \entry{hofbauerEvolutionaryGamesPopulation2003}{book}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d71144ac72326ab9019b0195d37d8502}{%
            family={Hofbauer},
@@ -3962,15 +4000,15 @@
       \field{isbn}{978-0-521-62365-0 978-0-521-62570-8}
       \field{langid}{english}
       \field{pagetotal}{323}
-      \field{title}{Evolutionary games and population dynamics}
+      \field{title}{Evolutionary Games and Population Dynamics}
       \field{year}{2003}
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Hofbauer and Sigmund - 2003 - Evolutionary games and population dynamics.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Hofbauer and Sigmund - 2003 - Evolutionary games and population dynamics.pdf;/Users/filippo/Zotero/storage/WHNY788G/Hofbauer and Sigmund - 2003 - Evolutionary games and population dynamics.pdf
       \endverb
     \endentry
-    \entry{holt_bilateral_2024}{article}{}{}
+    \entry{holtBilateralConflictExperimental2024}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8bd376c53bda4713d4ef793ca22737d8}{%
            family={Holt},
@@ -4006,8 +4044,8 @@
       \field{langid}{english}
       \field{month}{10}
       \field{number}{4}
-      \field{shorttitle}{Bilateral Conflict}
-      \field{title}{Bilateral Conflict: An Experimental Study of Strategic Effectiveness and Equilibrium}
+      \field{shorttitle}{Bilateral {{Conflict}}}
+      \field{title}{Bilateral {{Conflict}}: {{An Experimental Study}} of {{Strategic Effectiveness}} and {{Equilibrium}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -4022,7 +4060,7 @@
       \verb 10.1111/ajps.12810
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Holt and Palfrey - 2024 - Bilateral Conflict An Experimental Study of Strategic Effectiveness and Equilibrium.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Holt and Palfrey - 2024 - Bilateral Conflict An Experimental Study of Strategic Effectiveness and Equilibrium.pdf
       \endverb
       \verb{urlraw}
       \verb https://onlinelibrary.wiley.com/doi/10.1111/ajps.12810
@@ -4031,7 +4069,7 @@
       \verb https://onlinelibrary.wiley.com/doi/10.1111/ajps.12810
       \endverb
     \endentry
-    \entry{johnson_models-as-fables_2021}{article}{}{}
+    \entry{johnsonModelsAsFablesAlternativeStandard2021}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=89376d05e0012a14a3fc913258e2d066}{%
            family={Johnson},
@@ -4061,8 +4099,8 @@
       \field{langid}{english}
       \field{month}{9}
       \field{number}{3}
-      \field{shorttitle}{Models-As-Fables}
-      \field{title}{Models-As-Fables: An Alternative to the Standard Rationale for Using Formal Models in Political Science}
+      \field{shorttitle}{Models-{{As-Fables}}}
+      \field{title}{Models-{{As-Fables}}: {{An Alternative}} to the {{Standard Rationale}} for {{Using Formal Models}} in {{Political Science}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -4077,7 +4115,7 @@
       \verb 10.1017/S1537592720003473
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Johnson - 2021 - Models-As-Fables An Alternative to the Standard Rationale for Using Formal Models in Political Scie.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Johnson - 2021 - Models-As-Fables An Alternative to the Standard Rationale for Using Formal Models in Political Scie.pdf;/Users/filippo/Zotero/storage/4JNJZD5F/Johnson - 2021 - Models-As-Fables An Alternative to the Standard Rationale for Using Formal Models in Political Scie.pdf;/Users/filippo/Zotero/storage/7YVBPYT7/Johnson - 2021 - Models-As-Fables An Alternative to the Standard Rationale for Using Formal Models in Political Scie.pdf;/Users/filippo/Zotero/storage/IUHL5C8W/Johnson - 2021 - Models-As-Fables An Alternative to the Standard Rationale for Using Formal Models in Political Scie.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.cambridge.org/core/product/identifier/S1537592720003473/type/journal_article
@@ -4085,8 +4123,9 @@
       \verb{url}
       \verb https://www.cambridge.org/core/product/identifier/S1537592720003473/type/journal_article
       \endverb
+      \keyw{main}
     \endentry
-    \entry{kandori_learning_1993}{article}{}{}
+    \entry{kandoriLearningMutationLong1993}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=8b94a4262be92938bd845f065bd440a1}{%
            family={Kandori},
@@ -4122,12 +4161,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{eprinttype}{jstor}
       \field{issn}{00129682}
       \field{journaltitle}{Econometrica}
       \field{langid}{english}
       \field{month}{1}
       \field{number}{1}
-      \field{title}{Learning, Mutation, and Long Run Equilibria in Games}
+      \field{title}{Learning, {{Mutation}}, and {{Long Run Equilibria}} in {{Games}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -4141,8 +4181,11 @@
       \verb{doi}
       \verb 10.2307/2951777
       \endverb
+      \verb{eprint}
+      \verb 2951777
+      \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Kandori et al. - 1993 - Learning, Mutation, and Long Run Equilibria in Games.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Kandori et al. - 1993 - Learning, Mutation, and Long Run Equilibria in Games.pdf;/Users/filippo/Zotero/storage/LXE744Y8/Kandori et al. - 1993 - Learning, Mutation, and Long Run Equilibria in Games.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.jstor.org/stable/2951777?origin=crossref
@@ -4150,9 +4193,9 @@
       \verb{url}
       \verb https://www.jstor.org/stable/2951777?origin=crossref
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{korner_vectors_nodate}{article}{}{}
+    \entry{kornerVectorsPureApplied}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c2b561a00fe663e416b4aa1531c19880}{%
            family={Körner},
@@ -4176,13 +4219,13 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
-      \field{title}{Vectors, Pure and Applied}
+      \field{title}{Vectors, {{Pure}} and {{Applied}}}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Körner - Vectors, Pure and Applied.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Körner - Vectors, Pure and Applied.pdf;/Users/filippo/Zotero/storage/S4P6BBUQ/Körner - Vectors, Pure and Applied.pdf
       \endverb
     \endentry
-    \entry{lieberson_implication_2008}{article}{}{}
+    \entry{liebersonImplicationAnalysisPragmatic2008}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=e48e0b56014f593a0d513fe43a3afeec}{%
            family={Lieberson},
@@ -4218,8 +4261,8 @@
       \field{langid}{english}
       \field{month}{8}
       \field{number}{1}
-      \field{shorttitle}{Implication Analysis}
-      \field{title}{Implication Analysis: A Pragmatic Proposal for Linking Theory and Data in the Social Sciences}
+      \field{shorttitle}{Implication {{Analysis}}}
+      \field{title}{Implication {{Analysis}}: {{A Pragmatic Proposal}} for {{Linking Theory}} and {{Data}} in the {{Social Sciences}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -4234,7 +4277,7 @@
       \verb 10.1111/j.1467-9531.2008.00199.x
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Lieberson and Horwich - 2008 - Implication Analysis A Pragmatic Proposal for Linking Theory and Data in the Social Sciences.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Lieberson and Horwich - 2008 - Implication Analysis A Pragmatic Proposal for Linking Theory and Data in the Social Sciences.pdf;/Users/filippo/Zotero/storage/L346DW92/Lieberson and Horwich - 2008 - Implication Analysis A Pragmatic Proposal for Linking Theory and Data in the Social Sciences.pdf
       \endverb
       \verb{urlraw}
       \verb https://journals.sagepub.com/doi/10.1111/j.1467-9531.2008.00199.x
@@ -4243,7 +4286,7 @@
       \verb https://journals.sagepub.com/doi/10.1111/j.1467-9531.2008.00199.x
       \endverb
     \endentry
-    \entry{lin_equilibrium_nodate}{article}{}{}
+    \entry{linEquilibriumMulticandidateProbabilistic}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=577e1836ff1c07ed2e21749360fb38d9}{%
            family={Lin},
@@ -4278,18 +4321,18 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{This paper presents a multicandidate spatial model of probabilistic voting in which voter utility functions contain a random element speciﬁc to each candidate. The model assumes no abstentions, sincere voting, and the maximization of expected vote by each candidate. We derive a sufﬁcient condition for concavity of the candidate expected vote function with which the existence of equilibrium is related to the degree of voter uncertainty. We show that, under concavity, convergent equilibrium exists at a “minimum-sum point” at which total distances from all voter ideal points are minimized. We then discuss the location of convergent equilibrium for various measures of distance. In our examples, computer analysis indicates that non-convergent equilibria are only locally stable and disappear as voter uncertainty increases.}
+      \field{abstract}{This paper presents a multicandidate spatial model of probabilistic voting in which voter utility functions contain a random element specific to each candidate. The model assumes no abstentions, sincere voting, and the maximization of expected vote by each candidate. We derive a sufficient condition for concavity of the candidate expected vote function with which the existence of equilibrium is related to the degree of voter uncertainty. We show that, under concavity, convergent equilibrium exists at a “minimum-sum point” at which total distances from all voter ideal points are minimized. We then discuss the location of convergent equilibrium for various measures of distance. In our examples, computer analysis indicates that non-convergent equilibria are only locally stable and disappear as voter uncertainty increases.}
       \field{langid}{english}
-      \field{title}{Equilibrium in multicandidate probabilistic spatial voting}
+      \field{title}{Equilibrium in Multicandidate Probabilistic Spatial Voting}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Lin et al. - Equilibrium in multicandidate probabilistic spatial voting.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Lin et al. - Equilibrium in multicandidate probabilistic spatial voting.pdf;/Users/filippo/Zotero/storage/H77MTBD6/Lin et al. - Equilibrium in multicandidate probabilistic spatial voting.pdf
       \endverb
     \endentry
-    \entry{mckelvey_quantal_1995}{article}{}{}
+    \entry{mckelveyQuantalResponseEquilibria1995}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=0e9527c01edc1545dbf5751af3036020}{%
-           family={{McKelvey}},
+           family={McKelvey},
            familyi={M\bibinitperiod},
            given={Richard\bibnamedelima D.},
            giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
@@ -4316,11 +4359,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{We investigate the use of standard statistical models for quantal choice in a game theoretic setting. Players choose strategies based on relative expected utility and assume other players do so as well. We define a quantal response equilibrium ({ORE}) as a fixed point of this process and establish existence. For a logit specification of the error structure, we show that as the error goes to zero, {QRE} approaches a subset of Nash equilibria and also implies a unique selection from the set of Nash equilibria in generic games. We fit the model to a variety of experimental data sets by using maximum likelihood estimation. Journal of Economic Literature Classification Numbers: C19, C44, C72, C92.}
+      \field{abstract}{We investigate the use of standard statistical models for quantal choice in a game theoretic setting. Players choose strategies based on relative expected utility and assume other players do so as well. We define a quantal response equilibrium (ORE) as a fixed point of this process and establish existence. For a logit specification of the error structure, we show that as the error goes to zero, QRE approaches a subset of Nash equilibria and also implies a unique selection from the set of Nash equilibria in generic games. We fit the model to a variety of experimental data sets by using maximum likelihood estimation. Journal of Economic Literature Classification Numbers: C19, C44, C72, C92.}
       \field{issn}{0899-8256}
       \field{journaltitle}{Games and Economic Behavior}
       \field{number}{1}
-      \field{title}{Quantal Response Equilibria for Normal Form Games}
+      \field{title}{Quantal {{Response Equilibria}} for {{Normal Form Games}}}
       \field{volume}{10}
       \field{year}{1995}
       \field{dateera}{ce}
@@ -4328,10 +4371,10 @@
       \field{pages}{6\bibrangedash 38}
       \range{pages}{33}
       \verb{doi}
-      \verb https://doi.org/10.1006/game.1995.1023
+      \verb 10.1006/game.1995.1023
       \endverb
       \verb{file}
-      \verb McKelvey, Palfrey 1995 Quantal Response Equilibria for Normal Form Games, Games and Economic Behavior, Volume 10, Issue 1, Pages 6-38:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/McKelvey, Palfrey 1995 Quantal Response Equilibria for Normal Form Games, Games and Economic Behavior, Volume 10, Issue 1, Pages 6-38.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/McKelvey, Palfrey 1995 Quantal Response Equilibria for Normal Form Games, Games and Economic Behavior, Volume 10, Issue 1, Pages 6-38.pdf;/Users/filippo/Zotero/storage/MRDI4GGB/McKelvey, Palfrey 1995 Quantal Response Equilibria for Normal Form Games, Games and Economic Behavior, Volume 10, Issue 1, Pages 6-38.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.sciencedirect.com/science/article/pii/S0899825685710238
@@ -4340,7 +4383,7 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0899825685710238
       \endverb
     \endentry
-    \entry{morton_methods_2005}{book}{}{}
+    \entry{mortonMethodsModelsGuide2005}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5e9e5679f187d174aa649eedba92b799}{%
            family={Morton},
@@ -4374,16 +4417,16 @@
       \field{isbn}{978-0-521-63300-0 978-0-521-63394-9}
       \field{langid}{english}
       \field{pagetotal}{326}
-      \field{shorttitle}{Methods and models}
-      \field{title}{Methods and models: a guide to the empirical analysis of formal models in political science}
+      \field{shorttitle}{Methods and Models}
+      \field{title}{Methods and Models: A Guide to the Empirical Analysis of Formal Models in Political Science}
       \field{year}{2005}
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Morton - 2005 - Methods and models a guide to the empirical analysis of formal models in political science.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Morton - 2005 - Methods and models a guide to the empirical analysis of formal models in political science.pdf;/Users/filippo/Zotero/storage/CVIRBBWY/Morton - 2005 - Methods and models a guide to the empirical analysis of formal models in political science.pdf
       \endverb
     \endentry
-    \entry{nowak_five_nodate}{article}{}{}
+    \entry{nowakFiveRulesEvolution}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6b63180e77466ce81c34087d70a19cb9}{%
            family={Nowak},
@@ -4408,14 +4451,14 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
-      \field{title}{Five Rules for the Evolution of Cooperation}
+      \field{title}{Five {{Rules}} for the {{Evolution}} of {{Cooperation}}}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Nowak - Five Rules for the Evolution of Cooperation.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Nowak - Five Rules for the Evolution of Cooperation.pdf
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{nowak_evolutionary_2006}{book}{}{}
+    \entry{nowakEvolutionaryDynamicsExploring2006}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6b63180e77466ce81c34087d70a19cb9}{%
            family={Nowak},
@@ -4449,17 +4492,17 @@
       \field{isbn}{978-0-674-02338-3 978-0-674-41774-8}
       \field{langid}{english}
       \field{pagetotal}{1}
-      \field{shorttitle}{Evolutionary dynamics}
-      \field{title}{Evolutionary dynamics: exploring the equations of life}
+      \field{shorttitle}{Evolutionary Dynamics}
+      \field{title}{Evolutionary Dynamics: Exploring the Equations of Life}
       \field{year}{2006}
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Nowak - 2006 - Evolutionary dynamics exploring the equations of life.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Nowak - 2006 - Evolutionary dynamics exploring the equations of life.pdf
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{nowak_evolutionary_1992}{article}{}{}
+    \entry{nowakEvolutionaryGamesSpatial1992}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=6b63180e77466ce81c34087d70a19cb9}{%
            family={Nowak},
@@ -4494,7 +4537,7 @@
       \field{langid}{english}
       \field{month}{10}
       \field{number}{6398}
-      \field{title}{Evolutionary games and spatial chaos}
+      \field{title}{Evolutionary Games and Spatial Chaos}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -4509,7 +4552,7 @@
       \verb 10.1038/359826a0
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Nowak and May - 1992 - Evolutionary games and spatial chaos.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Nowak and May - 1992 - Evolutionary games and spatial chaos.pdf;/Users/filippo/Zotero/storage/3E5ZF5BD/Nowak and May - 1992 - Evolutionary games and spatial chaos.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.nature.com/articles/359826a0
@@ -4517,9 +4560,9 @@
       \verb{url}
       \verb https://www.nature.com/articles/359826a0
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{nowak_evolution_1998}{article}{}{}
+    \entry{nowakEvolutionIndirectReciprocity1998}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=6b63180e77466ce81c34087d70a19cb9}{%
            family={Nowak},
@@ -4554,7 +4597,7 @@
       \field{langid}{english}
       \field{month}{6}
       \field{number}{6685}
-      \field{title}{Evolution of indirect reciprocity by image scoring}
+      \field{title}{Evolution of Indirect Reciprocity by Image Scoring}
       \field{urlday}{11}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -4569,7 +4612,7 @@
       \verb 10.1038/31225
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Nowak and Sigmund - 1998 - Evolution of indirect reciprocity by image scoring.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Nowak and Sigmund - 1998 - Evolution of indirect reciprocity by image scoring.pdf;/Users/filippo/Zotero/storage/EKQLHQ97/Nowak and Sigmund - 1998 - Evolution of indirect reciprocity by image scoring.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.nature.com/articles/31225
@@ -4577,9 +4620,9 @@
       \verb{url}
       \verb https://www.nature.com/articles/31225
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{ohtsuki_simple_2006}{article}{}{}
+    \entry{ohtsukiSimpleRuleEvolution2006}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=9b0d27af1cdc3f0989b039b1934582e9}{%
            family={Ohtsuki},
@@ -4626,7 +4669,7 @@
       \field{langid}{english}
       \field{month}{5}
       \field{number}{7092}
-      \field{title}{A simple rule for the evolution of cooperation on graphs and social networks}
+      \field{title}{A Simple Rule for the Evolution of Cooperation on Graphs and Social Networks}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -4641,7 +4684,7 @@
       \verb 10.1038/nature04605
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ohtsuki et al. - 2006 - A simple rule for the evolution of cooperation on graphs and social networks.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Ohtsuki et al. - 2006 - A simple rule for the evolution of cooperation on graphs and social networks.pdf;/Users/filippo/Zotero/storage/EAI4C9S4/Ohtsuki et al. - 2006 - A simple rule for the evolution of cooperation on graphs and social networks.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.nature.com/articles/nature04605
@@ -4649,9 +4692,9 @@
       \verb{url}
       \verb https://www.nature.com/articles/nature04605
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{pearl_causality_2009}{book}{}{}
+    \entry{pearlCausalityModelsReasoning2009}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=809f695b398afbb54b544c49e8d1bbbb}{%
            family={Pearl},
@@ -4661,7 +4704,7 @@
            givenun=0}}%
       }
       \list{location}{1}{%
-        {Cambridge, {UK}}%
+        {Cambridge, UK}%
       }
       \list{publisher}{1}{%
         {Cambridge University Press}%
@@ -4683,16 +4726,17 @@
       \field{labeltitlesource}{title}
       \field{edition}{2}
       \field{isbn}{978-0-521-89560-6}
-      \field{title}{Causality: Models, Reasoning, and Inference}
+      \field{note}{Chapters 1–2 define causal diagrams (DAGs) and the structural model framework.}
+      \field{title}{Causality: {{Models}}, {{Reasoning}}, and {{Inference}}}
       \field{year}{2009}
       \field{dateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.1017/CBO9780511803161
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{safina_beyond_2015}{book}{}{}
+    \entry{safinaWordsWhatAnimals2015}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ceabcca9adf94dd30afe731487d84e80}{%
            family={Safina},
@@ -4704,9 +4748,8 @@
       \list{location}{1}{%
         {New York}%
       }
-      \list{publisher}{2}{%
-        {Henry Holt}%
-        {Company}%
+      \list{publisher}{1}{%
+        {Henry Holt and Company}%
       }
       \strng{namehash}{ceabcca9adf94dd30afe731487d84e80}
       \strng{fullhash}{ceabcca9adf94dd30afe731487d84e80}
@@ -4724,13 +4767,14 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-8050-9888-4}
-      \field{title}{Beyond Words: What Animals Think and Feel}
+      \field{note}{Explores animal cognition and emotions, linking behavioral evidence with questions of consciousness.}
+      \field{title}{Beyond {{Words}}: {{What Animals Think}} and {{Feel}}}
       \field{year}{2015}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{schelling_strategy_1960}{book}{}{}
+    \entry{schellingStrategyConflict1960}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=437acf28afb8c05b38d6de93b43ff96f}{%
            family={Schelling},
@@ -4740,7 +4784,7 @@
            givenun=0}}%
       }
       \list{location}{1}{%
-        {Cambridge, {MA}}%
+        {Cambridge, MA}%
       }
       \list{publisher}{1}{%
         {Harvard University Press}%
@@ -4761,13 +4805,14 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-674-84031-7}
-      \field{title}{The Strategy of Conflict}
+      \field{note}{Classic work on strategic behavior and conflict theory.}
+      \field{title}{The {{Strategy}} of {{Conflict}}}
       \field{year}{1960}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{signorino_structure_2003}{article}{}{}
+    \entry{signorinoStructureUncertaintyDiscrete2003}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a3e93d97102e37a6d36e3404a721fb84}{%
            family={Signorino},
@@ -4796,7 +4841,7 @@
       \field{journaltitle}{Polit. anal.}
       \field{langid}{english}
       \field{number}{4}
-      \field{title}{Structure and Uncertainty in Discrete Choice Models}
+      \field{title}{Structure and {{Uncertainty}} in {{Discrete Choice Models}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -4811,7 +4856,7 @@
       \verb 10.1093/pan/mpg020
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Signorino - 2003 - Structure and Uncertainty in Discrete Choice Models.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Signorino - 2003 - Structure and Uncertainty in Discrete Choice Models.pdf;/Users/filippo/Zotero/storage/MUCNTT9Q/Signorino - 2003 - Structure and Uncertainty in Discrete Choice Models.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.cambridge.org/core/product/identifier/S1047198700010391/type/journal_article
@@ -4820,7 +4865,7 @@
       \verb https://www.cambridge.org/core/product/identifier/S1047198700010391/type/journal_article
       \endverb
     \endentry
-    \entry{silberberg_structure_2001}{book}{}{}
+    \entry{silberbergStructureEconomicsMathematical2001}{book}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b1501fd9406c6951ead8453aa1b93366}{%
            family={Silberberg},
@@ -4845,7 +4890,7 @@
         {Boston}%
       }
       \list{publisher}{1}{%
-        {Irwin {McGraw}-Hill}%
+        {Irwin McGraw-Hill}%
       }
       \strng{namehash}{c7e2c1649b27d37c86a0689f247f29a3}
       \strng{fullhash}{c71c11652872919f08410caebbf05d7e}
@@ -4866,16 +4911,16 @@
       \field{isbn}{978-0-07-234352-6 978-0-07-118136-5}
       \field{langid}{english}
       \field{pagetotal}{668}
-      \field{shorttitle}{The structure of economics}
-      \field{title}{The structure of economics: a mathematical analysis}
+      \field{shorttitle}{The Structure of Economics}
+      \field{title}{The Structure of Economics: A Mathematical Analysis}
       \field{year}{2001}
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Silberberg et al. - 2001 - The structure of economics a mathematical analysis.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Silberberg et al. - 2001 - The structure of economics a mathematical analysis.pdf;/Users/filippo/Zotero/storage/DCPA2ACH/Silberberg et al. - 2001 - The structure of economics a mathematical analysis.pdf
       \endverb
     \endentry
-    \entry{smith_testing_1999}{article}{}{}
+    \entry{smithTestingTheoriesStrategic1999}{article}{}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=25aa82ea7724670d1e7620846b14c105}{%
            family={Smith},
@@ -4898,13 +4943,14 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
+      \field{eprinttype}{jstor}
       \field{issn}{00925853}
       \field{journaltitle}{American Journal of Political Science}
       \field{langid}{english}
       \field{month}{10}
       \field{number}{4}
-      \field{shorttitle}{Testing Theories of Strategic Choice}
-      \field{title}{Testing Theories of Strategic Choice: The Example of Crisis Escalation}
+      \field{shorttitle}{Testing {{Theories}} of {{Strategic Choice}}}
+      \field{title}{Testing {{Theories}} of {{Strategic Choice}}: {{The Example}} of {{Crisis Escalation}}}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -4918,8 +4964,11 @@
       \verb{doi}
       \verb 10.2307/2991827
       \endverb
+      \verb{eprint}
+      \verb 2991827
+      \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Smith - 1999 - Testing Theories of Strategic Choice The Example of Crisis Escalation.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Smith - 1999 - Testing Theories of Strategic Choice The Example of Crisis Escalation.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.jstor.org/stable/2991827?origin=crossref
@@ -4927,9 +4976,9 @@
       \verb{url}
       \verb https://www.jstor.org/stable/2991827?origin=crossref
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{smith_logic_1973}{article}{}{}
+    \entry{smithLogicAnimalConflict1973}{article}{}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=b160198f3d05f6e292928980596af3aa}{%
            family={Smith},
@@ -4954,17 +5003,17 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
-      \field{title}{The logic of Animal Conflict}
+      \field{title}{The Logic of {{Animal Conflict}}}
       \field{volume}{246}
       \field{year}{1973}
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Smith - 1973 - The logic of Animal COnflict.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Smith - 1973 - The logic of Animal COnflict.pdf;/Users/filippo/Zotero/storage/NK5LC8MJ/Smith - 1973 - The logic of Animal COnflict.pdf
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{smith_evolution_1982}{book}{}{}
+    \entry{smithEvolutionTheoryGames1982}{book}{}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=25d2c56a364fcad994a29ad74f1fb8f4}{%
            family={Smith},
@@ -4995,13 +5044,14 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-521-28884-2}
-      \field{title}{Evolution and the Theory of Games}
+      \field{note}{Introduces evolutionary game theory; see chapter 5 for discussion on conflict avoidance under perfect information.}
+      \field{title}{Evolution and the {{Theory}} of {{Games}}}
       \field{year}{1982}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{szabo_evolutionary_2007}{article}{}{}
+    \entry{szaboEvolutionaryGamesGraphs2007}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a8462c4421c4b773d2d268d775c69ddf}{%
            family={Szabó},
@@ -5031,13 +5081,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Game theory is one of the key paradigms behind many scientiﬁc disciplines from biology to behavioral sciences to economics. In its evolutionary form and especially when the interacting agents are linked in a speciﬁc social network the underlying solution concepts and methods are very similar to those applied in non-equilibrium statistical physics. This review gives a tutorial-type overview of the ﬁeld for physicists. The ﬁrst four sections introduce the necessary background in classical and evolutionary game theory from the basic deﬁnitions to the most important results. The ﬁfth section surveys the topological complications implied by non-mean-ﬁeld-type social network structures in general. The next three sections discuss in detail the dynamic behavior of three prominent classes of models: the Prisoner’s Dilemma, the Rock–Scissors–Paper game, and Competing Associations. The major theme of the review is in what sense and how the graph structure of interactions can modify and enrich the picture of long term behavioral patterns emerging in evolutionary games.}
+      \field{abstract}{Game theory is one of the key paradigms behind many scientific disciplines from biology to behavioral sciences to economics. In its evolutionary form and especially when the interacting agents are linked in a specific social network the underlying solution concepts and methods are very similar to those applied in non-equilibrium statistical physics. This review gives a tutorial-type overview of the field for physicists. The first four sections introduce the necessary background in classical and evolutionary game theory from the basic definitions to the most important results. The fifth section surveys the topological complications implied by non-mean-field-type social network structures in general. The next three sections discuss in detail the dynamic behavior of three prominent classes of models: the Prisoner’s Dilemma, the Rock–Scissors–Paper game, and Competing Associations. The major theme of the review is in what sense and how the graph structure of interactions can modify and enrich the picture of long term behavioral patterns emerging in evolutionary games.}
       \field{issn}{03701573}
       \field{journaltitle}{Physics Reports}
       \field{langid}{english}
       \field{month}{7}
-      \field{number}{4}
-      \field{title}{Evolutionary games on graphs}
+      \field{number}{4--6}
+      \field{title}{Evolutionary Games on Graphs}
       \field{urlday}{11}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -5052,7 +5102,7 @@
       \verb 10.1016/j.physrep.2007.04.004
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Szabó and Fáth - 2007 - Evolutionary games on graphs.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Szabó and Fáth - 2007 - Evolutionary games on graphs.pdf;/Users/filippo/Zotero/storage/UW4YEBCA/Szabó and Fáth - 2007 - Evolutionary games on graphs.pdf
       \endverb
       \verb{urlraw}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0370157307001810
@@ -5060,9 +5110,9 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0370157307001810
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{taylor_evolutionary_2004}{article}{}{}
+    \entry{taylorEvolutionaryGameDynamics2004}{article}{}{}
       \name{author}{4}{}{%
         {{un=1,uniquepart=given,hash=c0336ed54af5be4d03c863b005eaa8e0}{%
            family={Taylor},
@@ -5108,7 +5158,7 @@
       \field{langid}{english}
       \field{month}{11}
       \field{number}{6}
-      \field{title}{Evolutionary game dynamics in finite populations}
+      \field{title}{Evolutionary Game Dynamics in Finite Populations}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -5123,7 +5173,7 @@
       \verb 10.1016/j.bulm.2004.03.004
       \endverb
       \verb{file}
-      \verb PDF:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Taylor et al. - 2004 - Evolutionary game dynamics in finite populations.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Taylor et al. - 2004 - Evolutionary game dynamics in finite populations.pdf;/Users/filippo/Zotero/storage/LX42J9K3/Taylor et al. - 2004 - Evolutionary game dynamics in finite populations.pdf
       \endverb
       \verb{urlraw}
       \verb http://link.springer.com/10.1016/j.bulm.2004.03.004
@@ -5131,9 +5181,9 @@
       \verb{url}
       \verb http://link.springer.com/10.1016/j.bulm.2004.03.004
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
-    \entry{taylor_evolutionary_1978}{article}{}{}
+    \entry{taylorEvolutionaryStableStrategies1978}{article}{}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=5a0c5546a0d450041d91198fdf1c0094}{%
            family={Taylor},
@@ -5166,8 +5216,8 @@
       \field{journaltitle}{Mathematical Biosciences}
       \field{langid}{english}
       \field{month}{7}
-      \field{number}{1}
-      \field{title}{Evolutionary stable strategies and game dynamics}
+      \field{number}{1--2}
+      \field{title}{Evolutionary Stable Strategies and Game Dynamics}
       \field{urlday}{8}
       \field{urlmonth}{10}
       \field{urlyear}{2025}
@@ -5182,7 +5232,7 @@
       \verb 10.1016/0025-5564(78)90077-9
       \endverb
       \verb{file}
-      \verb Peter D. Taylor, Leo B. Jonker, Evolutionary stable strategies and game dynamics, Mathematical Biosciences, Volume 40, Issues 1–2, 1978, Pages 145-156, ISSN 0025-5564:/Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Peter Taylor, Jonker 1978 Evolutionary stable strategies and game dynamics, Mathematical Biosciences, Volume 40, Issues 1–2, Pages 145-156, ISSN 0025-5564.pdf:application/pdf
+      \verb /Users/filippo/Library/CloudStorage/OneDrive-UniversitàCommercialeLuigiBocconi/Desktop/Game Theory/Fomal Models/Peter Taylor, Jonker 1978 Evolutionary stable strategies and game dynamics, Mathematical Biosciences, Volume 40, Issues 1–2, Pages 145-156, ISSN 0025-5564.pdf;/Users/filippo/Zotero/storage/BKR692RZ/Peter Taylor, Jonker 1978 Evolutionary stable strategies and game dynamics, Mathematical Biosciences, Volume 40, Issues 1–2, Pages 145-156, ISSN 0025-5564.pdf
       \endverb
       \verb{urlraw}
       \verb https://linkinghub.elsevier.com/retrieve/pii/0025556478900779
@@ -5190,7 +5240,7 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/0025556478900779
       \endverb
-      \keyw{{EGT}}
+      \keyw{EGT}
     \endentry
   \enddatalist
 \endrefsection
