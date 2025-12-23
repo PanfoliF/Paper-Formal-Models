@@ -7,9 +7,7 @@
 \RequirePackage[english]{babel}
 \RequirePackage{graphicx}
 \RequirePackage{microtype}
-\RequirePackage{lipsum}
 \RequirePackage{subfiles}
-\RequirePackage{titling}
 \RequirePackage{enumitem} % per personalizzare gli elenchi
 \RequirePackage{pgfplots} % per grafici
 \pgfplotsset{compat=1.18} % per grafici
@@ -17,10 +15,11 @@
 \RequirePackage{lmodern} %font
 \RequirePackage{lipsum} % Pacchetto per testo Lorem Ipsum
 \RequirePackage{amsmath,amssymb}
+\RequirePackage{fontawesome5}
 
 
 \RequirePackage{geometry}
-\geometry{margin=4cm}
+\geometry{margin=3.75cm}
 
 %-------fancyhdr---------
 \RequirePackage{fancyhdr}
@@ -129,4 +128,100 @@
   \fi}
 \makeatother
 
+% --- Metadati + comandi link (mail/GitHub/ORCID/sito) ----
+% di default sono vuoti: i valori veri li metti nel main ---
+\providecommand{\Uni}{}
+\providecommand{\Dept}{}
+\providecommand{\Course}{}
+\providecommand{\Instructor}{}
+
+\providecommand{\AuthorName}{}
+\providecommand{\AuthorID}{}
+
+\providecommand{\AuthorEmailAddr}{}
+\providecommand{\GitUser}{}
+\providecommand{\GitRepo}{}
+
+\providecommand{\ORCIDid}{}
+\providecommand{\WebsiteURL}{}
+
+\providecommand{\DocVersion}{}
+\providecommand{\LastUpdated}{}
+
+\providecommand{\Keywords}{}
+\providecommand{\JEL}{}
+
+% --- (nel .sty) comandi “formattati” ---
+\newcommand{\Email}{\href{mailto:\AuthorEmailAddr}{\faEnvelope\ \AuthorEmailAddr}}
+\newcommand{\GitHubProfile}{\href{https://github.com/\GitUser}{\faGithub\ \texttt{\GitUser}}}
+\newcommand{\GitHubRepo}{\href{https://github.com/\GitUser/\GitRepo}{\faCodeBranch\ \texttt{\GitUser/\GitRepo}}}
+\newcommand{\ORCID}{\href{https://orcid.org/\ORCIDid}{\faOrcid\ \ORCIDid}}
+\newcommand{\Website}{\href{\WebsiteURL}{\faGlobe\ \WebsiteURL}}
+\newcommand{\CCBY}{\href{https://creativecommons.org/licenses/by/4.0/}{CC BY 4.0}}
+
+
+% --- (nel .sty) helper per repo: se GitRepo è vuoto, link al profilo ---
+\makeatletter
+\newcommand{\PrintRepoLink}{%
+  \ifx\GitRepo\@empty
+    \href{https://github.com/\GitUser}{github.com/\GitUser}%
+  \else
+    \GitHubRepo%
+  \fi
+}
+\makeatother
+
+% --- (nel .sty) macro titlepage: titolo e data li passi dal main ---
+\newcommand{\CustomTitlePage}[2]{%
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{1.2cm}
+
+{\LARGE \textbf{#1}\par}
+\vspace{0.35cm}
+
+{\large \Uni\ — \Dept\par}
+\vspace{0.15cm}
+{\large \textit{\Course}\par}
+
+\vspace{0.7cm}
+
+{\Large \AuthorName\ (\AuthorID)\par}
+\vspace{0.25cm}
+
+% contatti su due righe (sobrio)
+{\small
+\Email \quad\textbar\quad \GitHubProfile \quad\textbar\quad \ORCID \par
+\Website \par
+}
+
+\vspace{0.6cm}
+
+{\small \textbf{Replication materials / \LaTeX\ sources:}\; \PrintRepoLink\par}
+
+\vspace{0.35cm}
+
+{\small \textbf{Version:} \DocVersion \quad\textbar\quad
+\textbf{Last updated:} \LastUpdated\par}
+
+\vspace{0.35cm}
+
+{\small \textbf{Keywords:} \Keywords\par}
+{\small \textbf{JEL:} \JEL\par}
+
+\vspace{0.45cm}
+
+{\small \textbf{Prepared for:} \Course, taught by \Instructor\par}
+
+\vspace{0.35cm}
+
+{\small \textbf{License:} \CCBY\par}
+
+\vfill
+{\small #2\par}
+
+\end{center}
+\end{titlepage}
+}
 % ------------ END ---------------
