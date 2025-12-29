@@ -20,5 +20,8 @@
       "name": "latexmk ➜ build/",
       "tools": ["latexmk"]
     }
-  ]
+  ],
+  "latex-workshop.linting.lacheck.enabled": true,
+  "latex-workshop.linting.run": "onType",
+  "latex-workshop.mathpreviewpanel.cursor.enabled": true
 }
