@@ -3079,65 +3079,67 @@
     <bcf:citekey order="7" intorder="1">smithLogicAnimalConflict1973</bcf:citekey>
     <bcf:citekey order="7" intorder="2">schellingStrategyConflict1960</bcf:citekey>
     <bcf:citekey order="8" intorder="1">pearlCausalityModelsReasoning2009</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">vonneumannTheoryGamesEconomic1990</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">vonneumannTheoryGamesEconomic1990</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">reiterExploringBargainingModel2003</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">reiterExploringBargainingModel2003</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">Fearon_1995</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">grosecloseBuyingSupermajorities1996</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">grosecloseBuyingSupermajorities1996</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">safinaWordsWhatAnimals2015</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">safinaWordsWhatAnimals2015</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">vonneumannTheoryGamesEconomic1990</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">vonneumannTheoryGamesEconomic1990</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">reiterExploringBargainingModel2003</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">reiterExploringBargainingModel2003</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Fearon_1995</bcf:citekey>
     <bcf:citekey order="16" intorder="1">grosecloseBuyingSupermajorities1996</bcf:citekey>
     <bcf:citekey order="17" intorder="1">grosecloseBuyingSupermajorities1996</bcf:citekey>
     <bcf:citekey order="18" intorder="1">grosecloseBuyingSupermajorities1996</bcf:citekey>
     <bcf:citekey order="19" intorder="1">grosecloseBuyingSupermajorities1996</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">schellingStrategyConflict1960</bcf:citekey>
-    <bcf:citekey order="20" intorder="2">Schelling1966</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">mckelveyQuantalResponseEquilibria1995</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">mckelveyQuantalResponseEquilibria1995</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">Fearon1996</bcf:citekey>
-    <bcf:citekey order="23" intorder="2">Fearon_1995</bcf:citekey>
-    <bcf:citekey order="23" intorder="3">Fearon_1998</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">Fearon_1995</bcf:citekey>
-    <bcf:citekey order="24" intorder="2">Fearon1996</bcf:citekey>
-    <bcf:citekey order="24" intorder="3">Fearon_1998</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">schellingStrategyConflict1960</bcf:citekey>
-    <bcf:citekey order="25" intorder="2">Schelling1966</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">schellingStrategyConflict1960</bcf:citekey>
-    <bcf:citekey order="26" intorder="2">Schelling1966</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">reiterExploringBargainingModel2003</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">reiterExploringBargainingModel2003</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">grosecloseBuyingSupermajorities1996</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">grosecloseBuyingSupermajorities1996</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">schellingStrategyConflict1960</bcf:citekey>
+    <bcf:citekey order="22" intorder="2">Schelling1966</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">mckelveyQuantalResponseEquilibria1995</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">mckelveyQuantalResponseEquilibria1995</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">Fearon1996</bcf:citekey>
+    <bcf:citekey order="25" intorder="2">Fearon_1995</bcf:citekey>
+    <bcf:citekey order="25" intorder="3">Fearon_1998</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">Fearon_1995</bcf:citekey>
+    <bcf:citekey order="26" intorder="2">Fearon1996</bcf:citekey>
+    <bcf:citekey order="26" intorder="3">Fearon_1998</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">schellingStrategyConflict1960</bcf:citekey>
+    <bcf:citekey order="27" intorder="2">Schelling1966</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">schellingStrategyConflict1960</bcf:citekey>
+    <bcf:citekey order="28" intorder="2">Schelling1966</bcf:citekey>
     <bcf:citekey order="29" intorder="1">reiterExploringBargainingModel2003</bcf:citekey>
     <bcf:citekey order="30" intorder="1">reiterExploringBargainingModel2003</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">Kirshner01092000</bcf:citekey>
-    <bcf:citekey order="31" intorder="2">wagnerBargainingWar2000</bcf:citekey>
-    <bcf:citekey order="31" intorder="3">wittmanHowWarEnds1979</bcf:citekey>
-    <bcf:citekey order="31" intorder="4">smithBargainingNatureWar2004</bcf:citekey>
-    <bcf:citekey order="31" intorder="5">filsonBargainingFightingImpact2004</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">filsonBargainingFightingImpact2004</bcf:citekey>
-    <bcf:citekey order="32" intorder="2">Kirshner01092000</bcf:citekey>
-    <bcf:citekey order="32" intorder="3">smithBargainingNatureWar2004</bcf:citekey>
-    <bcf:citekey order="32" intorder="4">wagnerBargainingWar2000</bcf:citekey>
-    <bcf:citekey order="32" intorder="5">wittmanHowWarEnds1979</bcf:citekey>
-    <bcf:citekey order="33" intorder="1">ashworthTheoryCredibilityIntegrating2021</bcf:citekey>
-    <bcf:citekey order="33" intorder="2">brauningerTheoryBuildingCausal2020</bcf:citekey>
-    <bcf:citekey order="33" intorder="3">alma991001906059707991</bcf:citekey>
-    <bcf:citekey order="34" intorder="1">ashworthTheoryCredibilityIntegrating2021</bcf:citekey>
-    <bcf:citekey order="34" intorder="2">brauningerTheoryBuildingCausal2020</bcf:citekey>
-    <bcf:citekey order="34" intorder="3">alma991001906059707991</bcf:citekey>
-    <bcf:citekey order="35" intorder="1">smithLogicAnimalConflict1973</bcf:citekey>
-    <bcf:citekey order="35" intorder="2">axelrodEvolutionCooperation1981</bcf:citekey>
-    <bcf:citekey order="36" intorder="1">axelrodEvolutionCooperation1981</bcf:citekey>
-    <bcf:citekey order="36" intorder="2">smithLogicAnimalConflict1973</bcf:citekey>
-    <bcf:citekey order="37" intorder="1">kandoriLearningMutationLong1993</bcf:citekey>
-    <bcf:citekey order="37" intorder="2">taylorEvolutionaryStableStrategies1978</bcf:citekey>
-    <bcf:citekey order="37" intorder="3">hofbauerEvolutionaryGamesPopulation2003</bcf:citekey>
-    <bcf:citekey order="37" intorder="4">nowakFiveRulesEvolution2006</bcf:citekey>
-    <bcf:citekey order="38" intorder="1">hofbauerEvolutionaryGamesPopulation2003</bcf:citekey>
-    <bcf:citekey order="38" intorder="2">kandoriLearningMutationLong1993</bcf:citekey>
-    <bcf:citekey order="38" intorder="3">nowakFiveRulesEvolution2006</bcf:citekey>
-    <bcf:citekey order="38" intorder="4">taylorEvolutionaryStableStrategies1978</bcf:citekey>
-    <bcf:citekey order="39" intorder="1">hofbauerEvolutionaryGamesPopulation2003</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">reiterExploringBargainingModel2003</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">reiterExploringBargainingModel2003</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">Kirshner01092000</bcf:citekey>
+    <bcf:citekey order="33" intorder="2">wagnerBargainingWar2000</bcf:citekey>
+    <bcf:citekey order="33" intorder="3">wittmanHowWarEnds1979</bcf:citekey>
+    <bcf:citekey order="33" intorder="4">smithBargainingNatureWar2004</bcf:citekey>
+    <bcf:citekey order="33" intorder="5">filsonBargainingFightingImpact2004</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">filsonBargainingFightingImpact2004</bcf:citekey>
+    <bcf:citekey order="34" intorder="2">Kirshner01092000</bcf:citekey>
+    <bcf:citekey order="34" intorder="3">smithBargainingNatureWar2004</bcf:citekey>
+    <bcf:citekey order="34" intorder="4">wagnerBargainingWar2000</bcf:citekey>
+    <bcf:citekey order="34" intorder="5">wittmanHowWarEnds1979</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">ashworthTheoryCredibilityIntegrating2021</bcf:citekey>
+    <bcf:citekey order="35" intorder="2">brauningerTheoryBuildingCausal2020</bcf:citekey>
+    <bcf:citekey order="35" intorder="3">alma991001906059707991</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">ashworthTheoryCredibilityIntegrating2021</bcf:citekey>
+    <bcf:citekey order="36" intorder="2">brauningerTheoryBuildingCausal2020</bcf:citekey>
+    <bcf:citekey order="36" intorder="3">alma991001906059707991</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">smithLogicAnimalConflict1973</bcf:citekey>
+    <bcf:citekey order="37" intorder="2">axelrodEvolutionCooperation1981</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">axelrodEvolutionCooperation1981</bcf:citekey>
+    <bcf:citekey order="38" intorder="2">smithLogicAnimalConflict1973</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">kandoriLearningMutationLong1993</bcf:citekey>
+    <bcf:citekey order="39" intorder="2">taylorEvolutionaryStableStrategies1978</bcf:citekey>
+    <bcf:citekey order="39" intorder="3">hofbauerEvolutionaryGamesPopulation2003</bcf:citekey>
+    <bcf:citekey order="39" intorder="4">nowakFiveRulesEvolution2006</bcf:citekey>
     <bcf:citekey order="40" intorder="1">hofbauerEvolutionaryGamesPopulation2003</bcf:citekey>
+    <bcf:citekey order="40" intorder="2">kandoriLearningMutationLong1993</bcf:citekey>
+    <bcf:citekey order="40" intorder="3">nowakFiveRulesEvolution2006</bcf:citekey>
+    <bcf:citekey order="40" intorder="4">taylorEvolutionaryStableStrategies1978</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">hofbauerEvolutionaryGamesPopulation2003</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">hofbauerEvolutionaryGamesPopulation2003</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
